@@ -1,14 +1,15 @@
 {{ define "main" }}
-{{- $dateFormat := default "January 2 2006" (index .Site.Params "date_format") -}}
+{{- $dateFormat := default "January 2, 2006" (index .Site.Params "date_format") -}}
 <article>
   <section>
     <div class="section">
       <div class="sidebar">
-      <br/>
-        <p><em>
+        <br/>
+        <p class="first sidebar-title">{{ .Title }}</p>
+        <p class="last"><em>
         {{ with .Params.author }}{{ . }}, {{ end }}</em> {{ if isset .Params "date" -}}<em><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format $dateFormat }}</time></em>{{- end}}
         {{ if isset .Params "description" -}}
-        <br/>{{ .Params.description }}
+        <br/>{{ .Description }}
         {{- end }}
         </p>
       </div>
