@@ -1,6 +1,6 @@
 
 This repository contains the code for my website hosted at
-[https://old-huron-archive.netlify.com/].
+https://old-huron-archive.netlify.com/.
 
 
 I've modified his theme code for this site, but I started with Alexander
