@@ -1,5 +1,5 @@
 Unless otherwise noted, all material within the `content` directory of this
-project is work is licensed under a <a rel="license"
+project is work licensed under a <a rel="license"
 href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
