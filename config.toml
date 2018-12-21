@@ -1,4 +1,4 @@
-baseURL = "http://ViktorHaag.github.io/oharchive/"
+baseURL = "https://old-huron-archive.netlify.com/"
 languageCode = "en-uk"
 title = "Old Huron Archive"
 SectionPagesMenu = "main"
