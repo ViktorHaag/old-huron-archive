@@ -1,0 +1,22 @@
+{{ define "main" }}
+  <section>
+    {{ .Content }}
+  </section>
+  <section>
+    {{- $mainSections := .Site.Params.mainSections | default (slice "posts") -}}
+    {{- $section := where .Site.RegularPages "Section" "in" $mainSections -}}
+    {{- $section_count := len $section -}}
+    {{- if ge $section_count 1 -}}
+      {{- $section_name := index (.Site.Params.mainSections) 0 }}
+    <hr class="docutils">
+    <div>
+        {{- with .Site.GetPage "section" $section_name }}
+	<h1>Recent <a href="{{ .URL }}">{{ .Title }}</a></h1>
+        {{- end -}}
+        {{- range (first 3 $section.ByDate.Reverse) -}}
+          {{ .Render "summary" }}
+        {{- end -}}
+    </div>
+    {{- end -}}
+  </section>
+{{ end }}

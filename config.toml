@@ -1,0 +1,14 @@
+baseURL = "http://ViktorHaag.github.io/oharchive/"
+languageCode = "en-uk"
+title = "Old Huron Archive"
+SectionPagesMenu = "main"
+
+[author]
+    name = "Viktor Haag"
+    email = "viktor.haag@gmail.com"
+
+[params]
+    badge_image = "https://www.gravatar.com/avatar/5afee2f4902e5bbf78c8dc03d1c96ee0"
+    mainSections = [ "posts" ]
+
+
