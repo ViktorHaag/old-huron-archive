@@ -16,7 +16,7 @@ tags = ["character"]
 .. sidebar:: Rendan
    :class: titleless
 
-   .. image:: http://www.aveleyman.com/Gallery/2017/S/tve16527-106-207.jpg
+   .. image:: https://www.aveleyman.com/Gallery/2017/S/tve16527-106-207.jpg
 
    | Retired Army Colonel    6899D3
    | Age 38  5 terms
