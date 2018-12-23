@@ -305,19 +305,21 @@ pre.address {
 }
 
 /* Docutils generates footnotes as a table, make borderless */
-table.footnote,
+table.footnote {
+    border: none;
+}
 table.footnote td,
 table.footnote th {
-	border: none;
+	border: none !important;
 }
 
 table.citation {
-	border: none;
-	border-left: solid 1px #808080;
+	border: none !important;
 	margin-left: 1px;
 }
+
 table.citation td {
-	border-bottom: none;
+	border-bottom: none !important;
 }
 
 table.docutils {
@@ -349,16 +351,6 @@ table.field-list,
 table.field-list td,
 table.field-list th {
 	border: 0 !important;
-}
-/* ... and Docutils generates footnotes as a table */
-/* but since we border the notes, we don't set "none" for the outer table */
-table.footnote td,
-table.footnote th {
-        border: none;
-}
-
-table.citation td {
-	border-bottom: none;
 }
 
 th {
