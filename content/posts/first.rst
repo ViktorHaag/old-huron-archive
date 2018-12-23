@@ -1,14 +1,15 @@
 +++
 title = "First"
 date = 2018-12-19
-description = "Once again into the blogosphere."
+description = """
+Once again into the blogosphere.
+"""
 categories = ["meta"]
 tags = []
 +++
 
 Getting back into blogging
 ==========================
-
 For years, I belonged to a loose collection of gaming-related people on
 Google+, and then in their wisdom, Google decided to shutter the service and a
 diaspora of gaming folks occurred. I took the opportunity to try doing what a
