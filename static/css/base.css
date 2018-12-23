@@ -24,7 +24,7 @@
 @charset "UTF-8";
 
 body {
-	font-family: "Gill Sans", "Gill Sans MT", "Lato", Calibri, sans-serif;
+    font-family: Optima, Lato, Calibri, sans-serif;
 	background-color: #fffff8;
 	color: #111111;
 }
