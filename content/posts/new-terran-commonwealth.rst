@@ -37,7 +37,7 @@ Fuelled by Chris' posts and a desire to see a new year usher in a new game, I
 organized my thinking for preparations along several core principles.
 
 **smaller scale**. There seems quite compelling evidence that the original
-Traveller game was really intended to play out over on a much smaller scale
+Traveller game was really intended to play out over a much smaller scale
 than later content for the game would suggest. One or two subsectors would
 provide for "years of play", and thus the vast Imperial sprawl of sectors upon
 sectors of worlds offers play groups little more than cognitive load.
