@@ -2,7 +2,7 @@
 title = "Col Rendan Bardle (ret)"
 date = 2018-12-23
 description = """
-For the first time in many years, it looks like I'll have the opportunity to
+For the first time in many years, it looks like I will have the opportunity to
 play some Traveller. James Maliszewski seems set to start up another regular
 game set in his *Ripheus Sector* setting, and I have engaged to play in
 it. Pulling out my little black books from the gaming shelf and warming up my
