@@ -7,7 +7,7 @@ table.footnote {
 	float: right;
 	clear: both;
 	width: 50%;
-	text-align: right;
+	text-align: left;
 
 	border-right: solid 1px #808080;
 	border-left: none;
@@ -19,7 +19,7 @@ div.sidebar {
 	clear: both;
 	width: 40%;
 	position: relative;
-	text-align: right;
+	text-align: left;
 
 	background: #fffff6;
 	border-right: solid 1px #808080;
@@ -50,15 +50,15 @@ img {
 @media (min-width: 900px) {
 	/* fabricate a multi-column appearance
 	 * | left | main..main | sep | side |
-	 * left margin: 10%
-	 * main column: 55%
+	 * left margin: 5%
+	 * main column: 60%
 	 * seperation gutter : 5%
 	 * sidebar column: 30%
-	 * right margin: 0%
+	 * right margin: 2%
 	 */
 
 	section {
-		padding-left: 5%
+		padding-left: 5%;
 	}
 
 
