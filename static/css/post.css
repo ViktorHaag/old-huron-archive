@@ -67,15 +67,20 @@ img {
 	 * -- note: pre is left unconstrained
 	 */
 	div > p,
-	div > dl,
-	div > ol,
-	div > ul,
-	div > table,
-	div > blockquote {
+	div > table {
 		/* Constrain width for direct descendants of a div */
 		width: 60%;
 	}
 
+	div > dl,
+	div > ol,
+	div > ul,
+	div > blockquote {
+        /* Constrain width of indented descendents of a div
+           by 5% to account for their indent, and prevent slopping
+           over on the right margin */
+        width: 55%;
+    }
 
 	/*
 	 * Figures
