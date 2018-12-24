@@ -9,7 +9,7 @@
     <hr class="docutils">
     {{- end -}}
     {{ range .Data.Pages -}}
-      {{ .Render "summary" }}
+      {{ .Render "summary" | markdownify }}
     {{- end -}}
   </section>
 {{ end }}

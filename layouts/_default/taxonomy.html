@@ -3,10 +3,13 @@
     <div class="list-title">
       <h1>{{ .Title }}</h1>
     </div>
+    <div class="list-content">
+      {{ .Content }}
+    </div>
   </section>
   <section class="list-summaries">
     {{- range .Data.Pages -}}
-      {{ .Render "summary" }}
+      {{ .Render "summary" | markdownify }}
     {{- end -}}
   </section>
 {{ end }}
