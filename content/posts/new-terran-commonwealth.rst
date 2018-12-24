@@ -33,7 +33,7 @@ talk-first-rules-later approach.
 
 Core principles
 ---------------
-Fuelled by Chris' posts and a desire to see a new year user in a new game, I
+Fuelled by Chris' posts and a desire to see a new year usher in a new game, I
 organized my thinking for preparations along several core principles.
 
 **smaller scale**. There seems quite compelling evidence that the original
