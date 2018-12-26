@@ -54,7 +54,7 @@ entire area of "central authority over known space" to be on a smaller scale;
 four subsectors, or a quadrant, comprise all of my setting's known space.
 
 **modest tech levels**. The original game's main setting seemed targeted at
-modest levels of technology: space0-flight, yes, but the elevated levels of
+modest levels of technology: space-flight, yes, but the elevated levels of
 tech that could be found within the Imperium's core worlds were not necessarily
 to be found on the outer rim worlds where the original game proposed that most
 play might take place.
