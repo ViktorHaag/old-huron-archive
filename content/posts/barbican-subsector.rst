@@ -33,7 +33,7 @@ system around Barnard's Star, and the primary world [#]_ for the
 subsector). Subsectors built later will use names taken from the subway systems
 of other global cities, not yet decided (most likely, Paris, Tokyo, and
 Beijing). The particular configuration of the world names make very little
-sense with respect to the cities form which they're drawn; in general the world
+sense with respect to the cities from which they're drawn; in general the world
 names just happen to mostly start with the same letters as part of the system
 names for which they stand.
 
