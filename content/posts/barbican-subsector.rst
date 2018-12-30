@@ -1,0 +1,208 @@
++++
+title = "Building out a subsector"
+date = 2018-12-29
+description = """
+Travellers need a place to start travelling, so the first real steps of
+preparation for a referee involve building out a subsector. Starting with
+the stellar data from Stellagama Publishing's 
+[Near Space](https://rpggeek.com/rpgitem/211119/near-space) book
+for the Traveller quadrant around our own Sol system, I picked one of the four
+sub-sector sized quarters of the map and took to fleshing it out.
+"""
+categories = ["traveller", "rpg"]
+tags = ["prep"]
++++
+
+I wanted the playing field for the players to suggest a set of world names that
+seemed similar, somehow familiar, perhaps a bit old-timey, not just lifted from
+some existing SF media property, and decidedly not fanciful or
+made-up. Accordingly, I hit upon the plan that each subsector of stars would
+feature world names directly cribbed from the subway map of one of Earth's
+`Global cities <https://en.wikipedia.org/wiki/Global_city/>`_. The system names
+become less important than the world names -- in some cases, the world name
+might be the familiar name for the system's most populated world, in others,
+its largest space-station.
+
+.. [#] Primary worlds for each subsector are those with the best startport,
+       closest to Sol; Earth is the primary world in the subsector containing
+       Sol.
+
+The first subsector built would use names from the London tube map, thus
+*Barbican subsector* (where Barbican is the name of the world located in the
+system around Barnard's Star, and the primary world [#]_ for the
+subsector). Subsectors built later will use names taken from the subway systems
+of other global cities, not yet decided (most likely, Paris, Tokyo, and
+Beijing). The particular configuration of the world names make very little
+sense with respect to the cities form which they're drawn; in general the world
+names just happen to mostly start with the same letters as part of the system
+names for which they stand.
+
+**Data methods**. I used the tables from Book 3, adjusted slightly for some
+simple house rules. In order to generate a nice map, I'm using the excellent
+online `Traveller Map <https://travellermap.com/>`_ resource (if you use the
+"poster maker" tool there, it lets you enter your own custom data). The only
+tricky bit is it has specific expectations about the format, including some
+bits and generated data that's not part of the old Book 3 system. Accordingly,
+I massaged some of the stellar codes from Stellagama's *Near Space* [NS]_ book
+because the Map site didn't like some of them, and I fudged the trade codes
+(which I suspect are derived from guidelines found in later versions of the
+game that are slightly different). In the end, though, I got a nice map
+included here.
+
+For the known jump routes, I used the chances from the table in the 1977
+version of Book 3, and not the "communication routes" guidelines from the 1981
+rules. I also decided to hand-place a set of routes that are not known
+commercially, but are "service routes" known as classified information to the
+Scout and Navy services -- this helps to string the subsector together a bit
+more, projecting known jump routes from naval and scout bases that seem to make
+some sense, and might prove tasty secrets for player characters to seek out.
+
+
+Barbican subsector
+==================
+
+.. sidebar:: Barbican world data
+
+   ============ ========== =========================
+   World        UWP        Remarks
+   ============ ========== =========================
+   Barbican     A867976/E  Nb, Gg
+   Becontree    E676765/3  Ag, Gg
+   Brixton      E55A533/3  Ni, Gg
+   Edgware      B000355/B  Sb, Ni, Gg, Ab
+   Gant         C89858A/5  Ag, Ni, Gg
+   Gloucester   A430442/E  Ni, Po, Gg
+   Golder       E5A1203/3  Ni, Gg
+   Grange       C210488/7  Ni, Gg
+   Greenford    X457735/1  Ag, Gg
+   Gunnersby    C5A0331/7  Sb, Ni
+   Hainault     X4A2223/2  Ni
+   Hammersmith  B660988/B  Gg
+   Hendon       D00087A/5  Sb, Na, Ab
+   Highgate     D530887/1  Na, Po, Gg
+   Holborn      C442455/7  Sb, Ni, Po, Gg
+   Hounslow     C51097A/9  Sb, In, Na
+   Morden       E54637C/6  Ni, Gg
+   Osterly      X65A346/2  Ni, Gg
+   Oval         E8A0ADC/5  Gg
+   Preston      D435337/3  Sb Ni Gg
+   Richmond     C466755/9  Ag, Ri
+   Stanmore     A100875/E  Na, Gg
+   Victoria     XA9A265/0  Ni, Gg
+   Warwick      X230548/0  Ni, Po, Gg
+   Wanstead     C500575/8  Ni
+   Willesden    D858669/5  Sb, Ag, Ni, Gg
+   Whitechapel  A100778/8  Nb, Na, Gg
+   Woodford     X610342/0  Ni
+   ============ ========== =========================
+
+   | *Remarks legend*
+   | Nb, Sb -- Naval, Scout base
+   | Ag -- Agricultural: atm 4-9; hyd 4-8; pop 5-7
+   | In -- Industrial: atm 0-2,4,7,9; pop 9+ 
+   | Na -- Non-Agricultural: atm 0-3; pop 6+
+   | Ni -- Non-Industrial: pop 6-
+   | Ri -- Rich: atm 6,8; pop 6-8; gov 4-9
+   | Po -- Poor: atm 2-5; hyd 3-
+   | Gg, Ab -- Gas giant(s), Asteroid Belt(s)
+
+   (To avoid line-breaking in the table, I use a slash in the UWP before the
+   tech level instead of a hyphen)
+
+The subsector just rimward and coreward of Sol is named *Barbican
+subsector*. It has four worlds with class-A starports, and two class-B, mostly
+located to the trailing and rimward side of the sub-sector.
+
+.. figure:: BarbicanSubsector.png
+   :alt: Barbican Subsector
+   :align: left
+
+   Barbican subsector details showing UWP and Jump route paths.
+   
+   | Solid lines: known commercial jump routes
+   | Dashed lines: classified, naval jump routes
+   | Dotted lines: classified, scout jump routes
+
+At this stage, I don't want to think too much about the details of the map; I'd
+like to let things stew a little bit. Still, some features seem obvious.
+
+**travel patterns**. A major travel corridor obviously exists ranging from
+Hammersmith to Edgware and then round a horn to Willesden. As well, all the
+high-value starports are hubs for commercial traffic. This makes sense given
+the string of worlds that are only a single jump away from one another along
+the right edge of the map, and the tweaks I used to make the worlds towards the
+bottom right corner of the map more likely to have better starports; Sol is
+just off the bottom-right corner of the map, a single parsec away from
+Hammersmith.
+
+Away from the class A starports and the bottom right corner of the map, the
+ease of travel drops off precipitously. Beyond Willesden and Gunnersbury, only
+the Scout service has reliable jump data. Only the navy knows about a quick way
+to get to Wanstead. Any routes not already known must be calculated and
+programmed at jump time, and the compute resources required for this are
+prohibitive to most.
+
+**restricted access worlds**. Victoria, Becontree, and Willesden all start with
+explicit "captive government" power structures (Government rating `6`). This
+leads to questions about who's running the show there. The Terran Commonwealth
+is the overall authority in the quadrant, and they likely don't formally
+recognize any rival multi-world governing structure: that said, like
+confederation or commonwealth, Earth likely formally recognizes that individual
+worlds might have sway over perhaps a pair or even three systems; and
+pragmatically speaking, Commonwealth projection is likely to be (intentionally)
+limited to the core systems that are nearer to Sol (those within immediate
+reach of Jump-4 ships).
+
+*Victoria* seems like a great place to put a penal colony; it's likely that
+government ships from Whitechapel jump directly to Wanstead, and then to
+Victoria. It may make sense to include another route known only to the Navy
+between Wanstead and Victoria, or it may instead make sense to demand that
+prisoner transport there be capable of the dynamic jump-2 calculation on their
+own.
+
+*Becontree*, given the population at Hounslow, and the known route to Hounslow,
+it seems like Becontree may well be a vassal state. Becontree may well be the
+bread-basket for Hounslow, given it's agricultural status, and Hounslow's
+distinctly non-agricultural status. Perhaps Becontree is a world filled with
+subsidized agri-business (at best) or plantations (at worst).
+
+*Willesden* has a scout base, and is a vital linchpin connecting the
+well-travelled bottom right of the map with the top left where, mostly, only
+scouts know how to proceed. It makes sense that access to Willesden may well be
+strictly controlled by the Commonwealth Scout service and largely interdicted
+to civilian traffic. Gant's position between the Scout-controlled Willesden and
+Edgware, and its high law-level would seem to make it the foreward checkpoint
+for Willesden.
+
+
+Looking ahead
+=============
+In the spirit of not preparing too far ahead of the players, I'd like to avoid
+explicit thinking too much further beyond this preparation point. What kinds of
+characters the players create and where in particular they'd like to start play
+should drive further diving into detail. One further step I might take is to
+gather the rest of the "trade code" data gathered from the Traveller Map site
+process (much richer and more varied than the LBB data), and perhaps spin that
+out into simple "tags" for the worlds in the sub-sectors, similar to the notion
+of "tagging" that comes from Sine Nomine's *Stars Without Number* SF game
+[SWN]_, but I don't want to overburden the game with too much in the way of
+hybrid house rules, until I at least get a good set of adventures off the
+ground using pretty much as pure *Traveller* as I can.
+
+A party that wants to stick closer to civilization and get involved in
+adventures that range less on the frontier will probably want to stick close to
+the Hammersmith-Edgware corridor of easy jumps and fat starports. Remote
+clusters of adventure could centre in the cluster of worlds around Gloucester
+or Hounslow. Morden is a mostly livable, low-population, but moderate
+tech-level world that's a jump-2 from the rest of civilization, so explaining
+why they've been cut off and getting them back in contact, could provide for a
+set of focused adventures that might be rather un-Traveller like, but
+nevertheless interesting.
+
+We'll see what the players want to do.
+
+....
+
+.. [NS] :title:`Near Space`, https://rpggeek.com/rpgitem/211119/near-space
+
+.. [SWN] :title:`Stars Without Number`, https://rpggeek.com/rpg/8524/stars-without-number
