@@ -96,18 +96,20 @@ Barbican subsector
    Woodford     X610342/0  Ni
    ============ ========== =========================
 
-   | *Remarks legend*
-   | Nb, Sb -- Naval, Scout base
-   | Ag -- Agricultural: atm 4-9; hyd 4-8; pop 5-7
-   | In -- Industrial: atm 0-2,4,7,9; pop 9+ 
-   | Na -- Non-Agricultural: atm 0-3; pop 6+
-   | Ni -- Non-Industrial: pop 6-
-   | Ri -- Rich: atm 6,8; pop 6-8; gov 4-9
-   | Po -- Poor: atm 2-5; hyd 3-
-   | Gg, Ab -- Gas giant(s), Asteroid Belt(s)
+   .. class:: bulletless smaller
 
-   (To avoid line-breaking in the table, I use a slash in the UWP before the
-   tech level instead of a hyphen)
+      - *Remarks legend*
+      - Nb, Sb -- Naval, Scout base
+      - Ag -- Agricultural: atm 4-9; hyd 4-8; pop 5-7
+      - In -- Industrial: atm 0-2,4,7,9; pop 9+
+      - Na -- Non-Agricultural: atm 0-3; pop 6+
+      - Ni -- Non-Industrial: pop 6-
+      - Ri -- Rich: atm 6,8; pop 6-8; gov 4-9
+      - Po -- Poor: atm 2-5; hyd 3-
+      - Gg, Ab -- Gas giant(s), Asteroid Belt(s)
+      - |_|
+      - (To avoid line-breaking in the table, I use a slash in the UWP before
+        the tech level instead of a hyphen)
 
 The subsector just rimward and coreward of Sol is named *Barbican
 subsector*. It has four worlds with class-A starports, and two class-B, mostly
@@ -206,3 +208,12 @@ We'll see what the players want to do.
 .. [NS] :title:`Near Space`, https://rpggeek.com/rpgitem/211119/near-space
 
 .. [SWN] :title:`Stars Without Number`, https://rpggeek.com/rpg/8524/stars-without-number
+
+
+
+.. |br| raw:: html
+
+   <br/>
+
+.. |_| unicode:: 0xA0
+   :trim:
