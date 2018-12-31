@@ -15,3 +15,6 @@ tags = []
 
 .. |_| unicode:: 0xA0
    :trim:
+
+.. |__| unicode:: 0xA0 0xA0
+   :trim:
