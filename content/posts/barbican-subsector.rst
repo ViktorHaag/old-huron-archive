@@ -6,7 +6,7 @@ Travellers need a place to start travelling, so the first real steps of
 preparation for a referee involve building out a subsector. Starting with
 the stellar data from Stellagama Publishing's 
 [Near Space](https://rpggeek.com/rpgitem/211119/near-space) book
-for the Traveller quadrant around our own Sol system, I picked one of the four
+for the _Traveller_ quadrant around our own Sol system, I picked one of the four
 sub-sector sized quarters of the map and took to fleshing it out.
 """
 categories = ["traveller", "rpg"]
@@ -181,7 +181,7 @@ In the spirit of not preparing too far ahead of the players, I'd like to avoid
 explicit thinking too much further beyond this preparation point. What kinds of
 characters the players create and where in particular they'd like to start play
 should drive further diving into detail. One further step I might take is to
-gather the rest of the "trade code" data gathered from the Traveller Map site
+gather the rest of the "trade code" data gathered from the *Traveller* Map site
 process (much richer and more varied than the LBB data), and perhaps spin that
 out into simple "tags" for the worlds in the sub-sectors, similar to the notion
 of "tagging" that comes from Sine Nomine's *Stars Without Number* SF game
@@ -196,7 +196,7 @@ clusters of adventure could centre in the cluster of worlds around Gloucester
 or Hounslow. Morden is a mostly livable, low-population, but moderate
 tech-level world that's a jump-2 from the rest of civilization, so explaining
 why they've been cut off and getting them back in contact, could provide for a
-set of focused adventures that might be rather un-Traveller like, but
+set of focused adventures that might be rather un-*Traveller* like, but
 nevertheless interesting.
 
 We'll see what the players want to do.

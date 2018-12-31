@@ -2,10 +2,10 @@
 title = "Building a new Traveller setting"
 date = 2018-12-24
 description = """
-After reading the in-depth series of posts about Traveller over at [Tales to
+After reading the in-depth series of posts about _Traveller_ over at [Tales to
 Astound](https://talestoastound.wordpress.com/tag/traveller-out-of-the-box/), I
 decided that I wanted to transition one of my regular groups over to a series
-of Traveller adventures set in my own setting, rather than the Third
+of _Traveller_ adventures set in my own setting, rather than the Third
 Imperium. Starting out on the preparation work for it resurrected the warm
 memories I had for my first encounter with the little black books, years ago.
 """
@@ -13,8 +13,8 @@ categories = ["rpg", "traveller"]
 tags = ["prep"]
 +++
 
-Chris Kubasik's series of "Out of the Box" posts on Classic Traveller got me
-re-thinking about Traveller. It was the first game I ever owned, and I've long
+Chris Kubasik's series of "Out of the Box" posts on Classic *Traveller* got me
+re-thinking about *Traveller*. It was the first game I ever owned, and I've long
 had nostalgic feelings about it, but I've never played as much of it as I'd have
 liked. I think that's down to various reasons, but I think one of them was a
 distorted view of how complicated I felt it was. Not only "so many rules" but
@@ -22,7 +22,7 @@ also "so many unwieldy rules".
 
 In retrospect, I put that feeling down to not having really looked at the core
 game in years, and having my memory piled over with acres of "official
-Traveller content" over the years (various editions of the rules, various piles
+*Traveller* content" over the years (various editions of the rules, various piles
 of source material).
 
 Chris' posts got me to rethink my assumptions, and my recent re-embracement of
@@ -37,7 +37,7 @@ Fuelled by Chris' posts and a desire to see a new year usher in a new game, I
 organized my thinking for preparations along several core principles.
 
 **smaller scale**. There seems quite compelling evidence that the original
-Traveller game was really intended to play out over a much smaller scale
+*Traveller* game was really intended to play out over a much smaller scale
 than later content for the game would suggest. One or two subsectors would
 provide for "years of play", and thus the vast Imperial sprawl of sectors upon
 sectors of worlds offers play groups little more than cognitive load.
@@ -70,13 +70,13 @@ their own setting, using the random world generation tables as fuel for
 creativity. Honour the dice to create weird results, and then exercise your
 creativity to explain *why* those results happen. Or merely leave the
 incongruities as unexplained corners for emergent discovery during play. But,
-overall, *build your own sandbox*. Later publications in the Traveller line
+overall, *build your own sandbox*. Later publications in the *Traveller* line
 fleshed out a fully built setting that, in the early days, was really only
 subtly implied and even then, more along thematic lines and less along factual
 ones.
 
 Since I knew that the players I would have playing in my game would not
-necessarily be Traveller nerds, or even more than casual RPG players, I felt
+necessarily be *Traveller* nerds, or even more than casual RPG players, I felt
 that having a setting that was a bit more solidly connected to their own
 understanding of things and this lead me to think I had two approaches I could
 use:
@@ -137,7 +137,7 @@ that got me thinking about the setting and why some patterns might be the way
 they are.
 
 The "roll first and then explain" approach to old-style gaming really does seem
-core to the original Traveller experience, as I continue to flesh out my Terran
+core to the original *Traveller* experience, as I continue to flesh out my Terran
 Commonwwealth setting, I expect to see the effects of this approach to become
 more and more prominent.
 

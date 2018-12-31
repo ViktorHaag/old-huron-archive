@@ -3,10 +3,10 @@ title = "Col Rendan Bardle (ret)"
 date = 2018-12-23
 description = """
 For the first time in many years, it looks like I will have the opportunity to
-play some Traveller. James Maliszewski seems set to start up another regular
+play some _Traveller_. James Maliszewski seems set to start up another regular
 game set in his *Ripheus Sector* setting, and I have engaged to play in
 it. Pulling out my little black books from the gaming shelf and warming up my
-dice, I built my first Traveller character in a long time: what fell out was
+dice, I built my first _Traveller_ character in a long time: what fell out was
 Army Colonel Rendan Bardle.
 """
 categories = ["rpg", "traveller"]
