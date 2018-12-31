@@ -63,6 +63,8 @@ Barbican subsector
 
 .. sidebar:: Barbican world data
 
+   .. class:: smaller
+
    ============ ========== =========================
    World        UWP        Remarks
    ============ ========== =========================
