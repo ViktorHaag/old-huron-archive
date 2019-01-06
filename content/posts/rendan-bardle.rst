@@ -9,14 +9,13 @@ it. Pulling out my little black books from the gaming shelf and warming up my
 dice, I built my first _Traveller_ character in a long time: what fell out was
 Army Colonel Rendan Bardle.
 """
+thumb = "https://www.aveleyman.com/Gallery/2017/S/tve16527-106-207.jpg"
 categories = ["rpg", "traveller"]
 tags = ["character"]
 +++
 
 .. sidebar:: Rendan
    :class: titleless
-
-   .. image:: https://www.aveleyman.com/Gallery/2017/S/tve16527-106-207.jpg
 
    | Retired Army Colonel    6899D3
    | Age 38  5 terms

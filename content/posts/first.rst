@@ -4,6 +4,7 @@ date = 2018-12-19
 description = """
 Once again into the blogosphere.
 """
+thumb = "/img/old-huron-archive-banner.jpg"
 categories = ["meta"]
 tags = []
 +++

@@ -16,6 +16,7 @@ SectionPagesMenu = "main"
 
 [params]
     badge_image = "https://www.gravatar.com/avatar/5afee2f4902e5bbf78c8dc03d1c96ee0"
+    banner_image = "/img/old-huron-archive-banner.jpg"
     mainSections = [ "posts" ]
 
 

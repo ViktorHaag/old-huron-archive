@@ -11,6 +11,9 @@
         {{ if isset .Params "description" -}}
         <br/>{{ .Description | markdownify }}
         {{- end }}
+        {{ if isset .Params "thumb" -}}
+        <br/><br/><img src="{{ .Params.thumb | absURL }}" />
+        {{- end }}
         </p>
       </div>
     </div>

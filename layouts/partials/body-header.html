@@ -1,4 +1,4 @@
-{{- $badge_image := .Param "badge_image" | default "{{ .Site.BaseURL }}img/badge.png" -}}
+{{- $badge_image := .Param "badge_image" | absURL -}}
 <header class="top-menu">
   <nav class="top-menu">
     <ul>

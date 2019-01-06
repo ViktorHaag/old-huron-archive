@@ -1,16 +1,18 @@
-{{- $badge_image := .Param "badge_image" | default "{{ .Site.BaseURL }}img/badge.png" -}}
-{{- $badge_image := (trim $badge_image "/") | absURL -}}
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+{{- $banner_image := .Param "banner_image" | absURL -}}
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:webfeeds="http://webfeeds.org/rss/1.0" >
   <channel>
     <title>{{ .Site.Title }}</title>
     <link>{{ .Permalink }}</link>
     <description>Recent content {{ if ne  .Title  .Site.Title }}{{ with .Title }}in {{.}} {{ end }}{{ end }}on {{ .Site.Title }}</description>{{ with .Site.LanguageCode }}
     <language>{{.}}</language>{{ end }}
     <image>
-      <url>{{ $badge_image }}</url>
+      <url>{{ $banner_image }}</url>
       <title>{{ .Site.Title }}</title>
       <link>{{ .Permalink }}</link>
-    </image>      
+    </image>
+    <webfeeds:cover image="{{ $banner_image }}" />
     {{ if not .Date.IsZero }}
     <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
     {{ with .OutputFormats.Get "RSS" }}
@@ -23,7 +25,11 @@
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       {{ with .Site.Author.name }}<author>{{.}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
-      <description>{{ .Description | markdownify }}</description>
+      {{- if .Params.categories }}{{ range $category := .Params.categories }}<category>{{.}}</category>{{- end -}}{{- end -}}
+      <description>
+        {{ .Description | markdownify }}
+        {{ with .Params.thumb }}<img align="left" src="{{ . | absURL }}"/>{{end}}
+      </description>
     </item>
     {{ end }}
   </channel>

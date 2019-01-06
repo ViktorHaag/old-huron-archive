@@ -5,7 +5,7 @@ description = """
 Eventually, one key to old-style sandbox play in any game genre is letting your
 dice choice drive the game and that means _event tables_. Later versions of the
 original _Traveller_ game actually give more useful support for the referee in
-this regard than the original three books; I'm going to borrow some of these
+this regard than the original three books; I am going to borrow some of these
 techniques from the later editions and add them to the toolkit for my game.
 """
 categories = ["traveller", "rpg"]

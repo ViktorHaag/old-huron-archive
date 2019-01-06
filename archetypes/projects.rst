@@ -2,6 +2,7 @@
 title = "{{ replace .Name "-" " " | title }}"
 description = """
 """
+thumb = ""
 categories = []
 tags = []
 +++

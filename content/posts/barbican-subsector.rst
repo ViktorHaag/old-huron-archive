@@ -4,10 +4,11 @@ date = 2018-12-29
 description = """
 Travellers need a place to start travelling, so the first real steps of
 preparation for a referee involve building out a subsector. Starting with
-the stellar data from Stellagama Publishing's 
-[Near Space](https://rpggeek.com/rpgitem/211119/near-space) book
-for the _Traveller_ quadrant around our own Sol system, I picked one of the four
-sub-sector sized quarters of the map and took to fleshing it out.
+the stellar data from the 
+[Near Space](https://rpggeek.com/rpgitem/211119/near-space) book published
+by Stellagama Publishing for the _Traveller_ quadrant around our own Sol
+system, I picked one of the four sub-sector sized quarters of the map and took
+to fleshing it out.
 """
 categories = ["traveller", "rpg"]
 tags = ["prep"]

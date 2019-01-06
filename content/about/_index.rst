@@ -45,6 +45,9 @@ Acknowledgements
    instead of ETBembo (backed by the `Lato <https://fonts.google.com/specimen/Lato>`_ 
    web font for those without Optima available).
 
+   **banner**. The banner image for this site's feed was created by
+   `Lukas Baumert <https://pixabay.com/en/users/designer-obst-5430486/>`_.
+
    **traveller**. The Traveller game in all forms is owned by Far Future
    Enterprises. Copyright 1977 - 2008 Far Future Enterprises. Traveller is a
    registered trademark of `Far Future Enterprises
