@@ -10,6 +10,7 @@ dice, I built my first _Traveller_ character in a long time: what fell out was
 Army Colonel Rendan Bardle.
 """
 thumb = "https://www.aveleyman.com/Gallery/2017/S/tve16527-106-207.jpg"
+thumbattr = "McLean Stevenson as Lt Col Henry Blake (M*A*S*H)"
 categories = ["rpg", "traveller"]
 tags = ["character"]
 +++
