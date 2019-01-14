@@ -14,9 +14,9 @@ tags = ["actual play"]
 
 Last Friday, Group II of James Maliszewski's *Ripheus Sector* [RS]_ gang
 started out on the first adventure of what we hope to be many more. A fair
-amount of the session was spent on get-to-know-you kibbitzing and few technical
-glitches, but a reasonable amount of actual play happened, including an
-exciting prelude action scene and a solid hook for the next steps in future
+amount of the session was spent on get-to-know-you kibbitzing and a few
+technical glitches, but a reasonable amount of actual play happened, including
+an exciting prelude action scene and a solid hook for the next steps in future
 sessions.
 
 Backdrop and positioning
