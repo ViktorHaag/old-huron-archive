@@ -19,8 +19,9 @@ Bio
 .. class:: fullwidth
            
    I work in the software industry and spend my non-work time playing tabletop
-   role playing and board games and practising Iwama-style aikido. This website
-   is an archive of thoughts and projects, mostly related to tabeltop games.
+   role playing and board games and practising `Iwama-style aikido
+   <https://en.wikipedia.org/wiki/Iwama_style>`_. This website is an archive of
+   thoughts and projects, mostly related to tabeltop games.
 
    I've been playing role playing games and board games in earnest for about
    forty years, starting in a high school chess and board game club and
