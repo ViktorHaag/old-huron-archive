@@ -190,7 +190,7 @@ div.error p.admonition-title {
 	color: #a00000;
 }
 
-div.body p.centered {
+div.document p.centered {
 	text-align: center;
 	margin-top: 0.5em;
 }
@@ -394,11 +394,14 @@ h6 {
 
 /* -- other body styles ----------------------------------------------------- */
 
-div.body p.caption {
+div.document p.caption {
 	text-align: inherit;
+    margin-top: 0.25rem;
+    font-size: 0.7rem;
+	font-style: italic;
 }
 
-div.body td {
+div.document td {
 	text-align: left;
 }
 

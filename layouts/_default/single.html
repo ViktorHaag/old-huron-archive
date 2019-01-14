@@ -13,6 +13,7 @@
         {{- end }}
         {{ if isset .Params "thumb" -}}
         <br/><br/><img src="{{ .Params.thumb | absURL }}" />
+        {{ if isset .Params "thumbattr" -}}<br/><span style="font-size:0.7rem;font-style:italic;">{{ .Params.thumbattr | markdownify }}</span>{{- end }}
         {{- end }}
         </p>
       </div>
