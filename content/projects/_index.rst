@@ -5,5 +5,4 @@ description = "ongoing projects"
 
 .. class:: fullwidth
 
-   This section contains a pages for ongoing and past projects that aren't
-   really blog posts.
+   Here you can find a list of things that aren't really blog posts.
