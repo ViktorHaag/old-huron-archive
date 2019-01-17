@@ -119,7 +119,7 @@ The subsector just rimward and coreward of Sol is named *Barbican
 subsector*. It has four worlds with class-A starports, and two class-B, mostly
 located to the trailing and rimward side of the sub-sector.
 
-.. figure:: BarbicanSubsector.png
+.. figure:: /img/BarbicanSubsector.png
    :alt: Barbican Subsector
    :align: left
 
