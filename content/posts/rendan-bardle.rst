@@ -1,6 +1,7 @@
 +++
 title = "Col Rendan Bardle (ret)"
 date = 2018-12-23
+aliases = [ "/posts/rendan-bardle/" ]
 description = """
 For the first time in many years, it looks like I will have the opportunity to
 play some _Traveller_. James Maliszewski seems set to start up another regular

@@ -1,6 +1,7 @@
 +++
 title = "Responding to an explosive situation [RS-001]"
 date = 2019-01-14
+aliases = [ "/posts/rs-001-mining-market-incident/" ]
 description = """
 In which our heroes first meet, by jointly responding to an act of sabotage in
 the Q'Lor crawler docks and cutting short the prolonged assault of a mining

@@ -1,6 +1,7 @@
 +++
 title = "First"
 date = 2018-12-19
+aliases = [ "/posts/first/" ]
 description = """
 Once again into the blogosphere.
 """

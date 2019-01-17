@@ -1,6 +1,7 @@
 +++
 title = "Building event tables"
 date = 2018-12-31
+aliases = [ "/posts/building-event-tables/" ]
 description = """
 Eventually, one key to old-style sandbox play in any game genre is letting your
 dice choice drive the game and that means _event tables_. Later versions of the

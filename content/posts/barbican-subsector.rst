@@ -1,6 +1,7 @@
 +++
 title = "Building out a subsector"
 date = 2018-12-29
+aliases = [ "/posts/barbican-subsector/" ]
 description = """
 Travellers need a place to start travelling, so the first real steps of
 preparation for a referee involve building out a subsector. Starting with

@@ -19,4 +19,5 @@ SectionPagesMenu = "main"
     banner_image = "/img/old-huron-archive-banner.jpg"
     mainSections = [ "posts" ]
 
-
+[permalinks]
+    posts = "/:year/:month/:slug/"

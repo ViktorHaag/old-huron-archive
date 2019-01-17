@@ -1,6 +1,7 @@
 +++
 title = "Building a new Traveller setting"
 date = 2018-12-24
+aliases = [ "/posts/new-terran-commonwealth/" ]
 description = """
 After reading the in-depth series of posts about _Traveller_ over at [Tales to
 Astound](https://talestoastound.wordpress.com/tag/traveller-out-of-the-box/), I
