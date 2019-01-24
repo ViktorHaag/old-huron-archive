@@ -8,7 +8,7 @@ return) to a nearby by frontier world. The man explains that his father is due
 to be released from a prison on the world and he feels an obligation to meet
 him and convey him back home.
 """
-thumb = "http://www.streetoncriminallawyers.com.au/wp-content/uploads/2017/10/bristol-prison-release.jpg"
+thumb = "/img/bristol-prison-release-thumbnail.jpg"
 thumbattr = 'Bristol Prison Release, <a href="http://www.streetoncriminallawyers.com.au/community-safety-introduced-paramount-sentencing-consideration/bristol-prison-release/">Streeton Lawyers</a>'
 categories = ["traveller", "rpg"]
 tags = ["patron"]
