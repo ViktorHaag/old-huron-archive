@@ -4,7 +4,7 @@ date = 2019-01-14
 aliases = [ "/posts/rs-001-mining-market-incident/" ]
 description = """
 In which our heroes first meet, by jointly responding to an act of sabotage in
-the Q'Lor crawler docks and cutting short the prolonged assault of a mining
+the QLor crawler docks and cutting short the prolonged assault of a mining
 baron (and potential future patron).
 """
 thumb = "https://i.pinimg.com/236x/b9/0f/4f/b90f4f77e19662f7423ba1f5e5fdfee9--sci-fi-art-environment-design.jpg"
