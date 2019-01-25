@@ -4,7 +4,7 @@ date = 2019-01-24
 description = """
 The group is contacted by a quiet, conservatively dressed young man who wants
 to secure, via middle passage, a return trip for one passenger (and two on the
-return) to a nearby by frontier world. The man explains that his father is due
+return) to a nearby frontier world. The man explains that his father is due
 to be released from a prison on the world and he feels an obligation to meet
 him and convey him back home.
 """
