@@ -154,7 +154,7 @@ demonstrated in the example *Rumours Matrix* shown in the rule-book:
   twice, as does "Background information".
 
 
-
+....
 
 .. |br| raw:: html
 

@@ -63,6 +63,7 @@ most likely will not need).
 If the players have any reason to look into, or verify, the identity of the
 patron, they may discover the deception.
 
+....
 
 .. |br| raw:: html
 

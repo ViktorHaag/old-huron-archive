@@ -13,7 +13,7 @@ categories = ["riphaeus sector", "traveller", "rpg"]
 tags = ["actual play"]
 +++
 
-Last Friday, Group II of James Maliszewski's *Ripheus Sector* [RS]_ gang
+Last Friday, Group II of James Maliszewski's *Riphaeus Sector* [RS]_ gang
 started out on the first adventure of what we hope to be many more. A fair
 amount of the session was spent on get-to-know-you kibbitzing and a few
 technical glitches, but a reasonable amount of actual play happened, including
@@ -141,7 +141,8 @@ background. Therefore, chain of command isn't naturally in place -- the group
 will need to (sooner, rather than later, I would guess) come to some joint
 agreement on what decision making structure we'd all like to live with.
 
-   
+....
+
 .. |br| raw:: html
 
    <br/>
