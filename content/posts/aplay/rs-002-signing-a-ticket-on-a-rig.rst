@@ -6,7 +6,7 @@ In which our heroes meet with a potential patron, and end up signing on to
 provide security and investigative services, on a contract basis, for her
 mining efforts in the deep desert.
 """
-thumb = "https://cdn.pixabay.com/photo/2016/10/12/23/23/mining-excavator-1736293_1280.jpg"
+thumb = "/img/mining-excavator-thumbnail.jpg"
 thumbattr = 'mining excavator, <a href="https://pixabay.com/en/users/xusenru-1829710/">xusenru</a>'
 categories = ["riphaeus sector", "traveller", "rpg"]
 tags = ["actual play"]
