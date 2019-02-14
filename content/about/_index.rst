@@ -14,6 +14,7 @@ Bio
     | **github**   `ViktorHaag <https://github.com/ViktorHaag>`__
     | **keybase**  `viktorhaag <https://keybase.io/viktorhaag>`__
     | **reddit**   `u/viktor_haag <https://www.reddit.com/user/viktor_haag>`__
+    | **spectrum** `viktor_haag <https://spectrum.chat/users/viktor-haag>`__
     | **twitter**  `@viktor_haag <https://twitter.com/viktor_haag>`__
 
 .. class:: fullwidth
