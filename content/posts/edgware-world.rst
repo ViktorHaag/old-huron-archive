@@ -226,7 +226,7 @@ probably more complicated than that, but I only want to know in rough terms
 what the travel times are between features). For Edgeware's system then:
 
 * Travel from Edgware Station to either Hale, the gas giant, or the outpost on
-  Rectory is trip of about 70 million km on average; at 1G that's "about two
+  Rectory is a trip of about 70 million km on average; at 1G that's "about two
   days", and at 2G that's "about a day and a half".
 
 * Travel between Rectory and Hale is a trip of about 135 million km on average;
