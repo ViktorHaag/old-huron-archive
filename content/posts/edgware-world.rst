@@ -182,7 +182,7 @@ Orbit Feature                          Satellites Feature UPP
 3     Hale (Eggen 372/III)             8          L gas giant
 --    -- i
 --    -- ii
---    -- Hale station                             x0001
+--    -- Hale station                             xS001
 --    -- iv
 --    -- v
 --    -- vi
