@@ -11,7 +11,7 @@ by Stellagama Publishing for the _Traveller_ quadrant around our own Sol
 system, I picked one of the four sub-sector sized quarters of the map and took
 to fleshing it out.
 """
-categories = ["traveller", "rpg"]
+categories = ["barbican subsector", "traveller", "rpg"]
 tags = ["prep"]
 +++
 
