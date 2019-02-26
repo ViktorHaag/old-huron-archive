@@ -178,7 +178,7 @@ Orbit Feature                          Satellites Feature UPP
 1     Rectory (Eggen 372/II)           2          x2002
 --    -- i
 --    -- ii     
-2     Edgware port (asteroid belt)                B000355/B
+2     Edgware station (asteroid belt)             B000355/B
 3     Hale (Eggen 372/III)             8          L gas giant
 --    -- i
 --    -- ii
