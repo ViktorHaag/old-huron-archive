@@ -133,7 +133,7 @@ gunner crew member, and lose 5 tons of cargo space. The payback for that is
   stateroom in the crew complement.
 
 **Charters**. Chartering price for the yacht probably falls into several
-general configurations:
+general configurations (for a two-week charter block):
 
 - Mail-yacht (6 tons cargo space, owner plus five crew, seven passengers):
   about 61,500 credits.
