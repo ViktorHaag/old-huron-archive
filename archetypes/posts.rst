@@ -15,6 +15,10 @@ tags = []
 
    <br/>
 
+.. |sp| raw:: html
+
+   &nbsp;
+
 .. |_| unicode:: 0xA0
    :trim:
 
