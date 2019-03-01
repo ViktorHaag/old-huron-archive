@@ -55,7 +55,7 @@ because a full tank lets the ship run for two jumps.
 
 * Each jump burns 20 tons of fuel, and approximately one week of time.
 
-* Each week in space 2.5 tons of fuel.
+* Each week in space burns 2.5 tons of fuel.
 
 **Maintenance**. Only a foolish ship owner puts off ship maintenance. The
 annual maintenance cost for a yacht is 51,057 credits, or 981.87 weekly.
