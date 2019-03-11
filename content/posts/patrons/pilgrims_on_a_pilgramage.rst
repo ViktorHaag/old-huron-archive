@@ -49,12 +49,12 @@ attempt to soothe and calm the waters, or be held responsible for an
 unsatisfactory voyage.
 
 *6*. Same as above, except if the players do not step in, matters will get well
-out of hand, and one of hte postulants will end up dead. Players will need to
+out of hand and one of the postulants will end up dead. Players will need to
 take steps to, firstly, prove that the murder wasn't done by a member of the
-crew (as the officiants will first insist), and secondly, will need to
+crew (as the officiants will first insist) and, secondly, will need to
 determine to the officiants satisfaction exactly who is responsible.
 
-The investigation should depend on things like: building up a logical record of
+The investigation should depend on things like building up a logical record of
 testimony by the passengers to determine that someone is obviously lying,
 perhaps backed up physical forensic evidence that could be gathered and
 analyzed by the ship's medic or by poring through the ship's computer records
