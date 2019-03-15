@@ -1,7 +1,5 @@
 +++
-title = "Traveller pages"
-description = """
-"""
+title = "traveller"
 +++
 
 .. sidebar:: Acknowledgement
