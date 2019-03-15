@@ -1,7 +1,7 @@
 {{ define "main" }}
   <section class="list-title">
     <div class="list-title">
-      <h1>{{ .Title }}</h1>
+      <h1>{{ .Type }} : {{ lower .Title }}</h1>
     </div>
     <div class="list-content">
       {{ .Content }}
