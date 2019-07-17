@@ -10,7 +10,7 @@ Bio
 
 .. sidebar:: contents
    :class: titleless
-           
+
     | **github**   `ViktorHaag <https://github.com/ViktorHaag>`__
     | **keybase**  `viktorhaag <https://keybase.io/viktorhaag>`__
     | **reddit**   `u/viktor_haag <https://www.reddit.com/user/viktor_haag>`__
@@ -18,7 +18,7 @@ Bio
     | **twitter**  `@viktor_haag <https://twitter.com/viktor_haag>`__
 
 .. class:: fullwidth
-           
+
    I work in the software industry and spend my non-work time playing tabletop
    role playing and board games and practising `Iwama-style aikido
    <https://en.wikipedia.org/wiki/Iwama_style>`_. This website is an archive of
@@ -29,7 +29,7 @@ Bio
    continuing on through university and afterwards. The first RPGs I owned were
    a *Traveller* set (the little black box) and a *D&D* set (with the
    psychedelic Erol Otus cover).
-   
+
 
 Acknowledgements
 ================
@@ -44,11 +44,19 @@ Acknowledgements
 
    It leans most heavily on the `tufte-css <https://github.com/edwardtufte/tufte-css>`_
    project with `Optima <https://en.wikipedia.org/wiki/Optima>`_ as the underlying typeface,
-   instead of ETBembo (backed by the `Lato <https://fonts.google.com/specimen/Lato>`_ 
+   instead of ETBembo (backed by the `Lato <https://fonts.google.com/specimen/Lato>`_
    web font for those without Optima available).
 
    **banner**. The banner image for this site's feed was created by
    `Lukas Baumert <https://pixabay.com/en/users/designer-obst-5430486/>`_.
+
+   **runequest and call of cthulhu**. Portions of this blog use trademarks
+   and/or copyrights owned by Chaosium Inc/Moon Design Publications LLC, which
+   are used under Chaosium Inc's Fan Material Policy. We are expressly
+   prohibited from charging you to use or access this content. This blog is not
+   published, endorsed, or specifically approved by Chaosium Inc. For more
+   information about Chaosium Inc's products, please visit `www.chaosum.com
+   <https://www.chaosium.com>`_.
 
    **traveller**. The Traveller game in all forms is owned by Far Future
    Enterprises. Copyright 1977 - 2008 Far Future Enterprises. Traveller is a
@@ -72,5 +80,3 @@ License
    Unless otherwise noted, this work by Viktor Haag is licensed under a
    `Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
    License <http://creativecommons.org/licenses/by-nc-sa/4.0/>`_.
-
-
