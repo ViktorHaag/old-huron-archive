@@ -1,8 +1,8 @@
 +++
 title = "RuneQuest player intro"
 description = """
-Glorantha as a gaming setting with decades of material created for it, and this
-can make it intimidating. However, intimate knowledge of all that is really
+Glorantha is a gaming setting with decades of material created for it, and this
+can make it intimidating. However, intimate knowledge of all that isn't really
 needed to start playing and have fun in the setting. Here is a player
 introduction that describes a common knowledge starting place for players in my
 *RuneQuest* game.
@@ -45,7 +45,7 @@ people* that live in *Sartar*, a mountainous kingdom named for its first king,
 situated on the eastern edge of *Dragon Pass*, a strategically important
 crossroads in the world of *Glorantha*.
 
-* To the north-east and through the montains and hills lies the Lunar Empire of
+* To the north-west and through the montains and hills lies the Lunar Empire of
   the Red Moon, the invaders that have recently conquered your lands. There
   were many battles, and much blood was spilled.
 
@@ -77,11 +77,11 @@ About this occupation...
 So, apparently we fought some kind of war with this Lunar Empire to the north
 east?
 
-**How did we do in this war?** You lost. The Lunars defeated you in 1602,
-sacked the kingdom's capital, Boldhome, and installed a puppet king (and,
-eventually, a Lunar governer). In the ten years that followed the Lunars
-cruelly secured their rule via a comprehensive policy of assassination, martial
-law, and taxation.
+**How did we do in this war?** You lost. Thirteen years ago (1602), the Lunars
+defeated you, sacked the kingdom's capital, Boldhome, and installed a puppet
+king (and, eventually, a Lunar governer). In the ten years that followed the
+Lunars cruelly secured their rule via a comprehensive policy of assassination,
+martial law, and taxation.
 
 **What did we do then?** Throughout this period, some of your people
 collaborated with the occupiers, and some of your people resisted (although not
