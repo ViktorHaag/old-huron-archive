@@ -19,7 +19,7 @@ tags = ["intro"]
    for his players by `RHW <https://basicroleplaying.org/profile/8059-rhw/>`_
    on the Chaosium forums, and is used with permission.
 
-|rq| is a fantasy RPG that's unlike traditional D&D in in several ways:
+|rq| is a fantasy RPG that's unlike traditional D&D in several ways:
 
   |rq| has no character classes or alignments; characters are defined by their
   culture, the gods they follow, and the Runes that inspire them.
@@ -68,7 +68,56 @@ craggy hills to the east. The fortified Clearwine village is your tribal seat,
 but your tribe also controls many other villages, shrines, and lands for
 grazing and farming.
 
-The current year is 1615.
+
+.. sidebar:: past history
+   :class: wide
+
+   The current year is 1615. Here's a time capsule view of past history that
+   you know about and can yourself remember.
+
+   .. list-table::
+      :widths: auto
+      :stub-columns: 1
+
+      * - 1613
+        - Kallyr Starbrow's rebellion was defeated.
+      * - 1602
+        - The Lunars invaded us and sacked Boldhome.
+
+   Your tribe history keepers tell you about the history of your tribe from
+   before you or your parents were born.
+
+   .. list-table::
+      :widths: auto
+      :stub-columns: 1
+
+      * - 1470-80
+        - Sartar comes to Dragon Pass, defeats foes, unifies the tribes, and
+          builds the walls of Boldhome.
+      * - 1335
+        - King Colymar dies; Colymar clan becomes the Colymar tribe, with
+          five clans.
+      * - 1320-25
+        - Burning of Clearwine village; King Colymar enters a local hill fort,
+          and names it Clearwine.
+      * - 1300
+        - Clearwine village settled by King Colymar and Hendriki settlers from
+          the south.
+
+   Sages in your tribe tell you about the most famous events of History (after
+   the Great Compromise).
+
+   .. list-table::
+      :widths: auto
+      :stub-columns: 1
+
+      * - ~1250
+        - The Red Moon rises in the northern sky.
+      * - 1100
+        - Dragonkill War. Dragons close Dragon Pass to humankind.
+
+
+
 
 
 About this occupation...
