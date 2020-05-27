@@ -21,3 +21,10 @@ SectionPagesMenu = "main"
 
 [permalinks]
     posts = "/:year/:month/:slug/"
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.parser]
+            autoHeadingIDType = "blackfriday"
+        [markup.goldmark.renderer]
+            unsafe = true
