@@ -23,7 +23,7 @@ An already-familiar setting
 ---------------------------
 The options for choosing some other game, or some other setting, would mean me
 having to put another backdrop into my head. For example, I had briefly
-considered `Coriolis <https://frialigan.se/en/games/coriolis-2/>`_ game, the
+considered a `Coriolis <https://frialigan.se/en/games/coriolis-2/>`_ game, the
 chief advantage being an assumed lower-prep level because of adventures already
 being written and published by Fria Lagan. But the game still comes with a
 detailed setting and an entirely new set of rules, and this combination seemed
