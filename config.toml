@@ -1,7 +1,9 @@
 baseURL = "https://old-huron-archive.netlify.com/"
 languageCode = "en-ca"
 title = "Old Huron Archive"
-SectionPagesMenu = "main"
+
+rssLimit = "10"
+sectionPagesMenu = "main"
 
 [author]
     name = "Viktor Haag"
