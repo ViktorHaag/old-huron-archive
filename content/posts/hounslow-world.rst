@@ -1,6 +1,6 @@
 +++
 title = "Out on the frontier"
-date = 2020-05-27
+date = 2020-06-02
 description = """
 Returning to an established setting after a long absence can prove a challenge
 for RPG referees. Luckily, the built-in, modular nature of Traveller provides
