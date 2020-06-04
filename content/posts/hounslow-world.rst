@@ -108,7 +108,7 @@ Orbit Feature                          Satellites Feature UPP
 0     Hounslow                         --         C51097A/9
 1     --
 2     Asteroid Belt                               x000335/8
-4     --
+3     --
 ===== ================================ ========== ===========
 
 The system's asteroid belt has a relatively high population (order thousands),
