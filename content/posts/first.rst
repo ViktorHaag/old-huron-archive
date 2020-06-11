@@ -6,6 +6,7 @@ description = """
 Once again into the blogosphere.
 """
 thumb = "/img/old-huron-archive-banner.jpg"
+thumbattr = 'big pen, <a href="https://pixabay.com/en/users/designer-obst-5430486/">Lukas Baumert</a>'
 categories = ["meta"]
 tags = []
 +++

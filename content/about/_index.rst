@@ -47,9 +47,6 @@ Acknowledgements
    instead of ETBembo (backed by the `Lato <https://fonts.google.com/specimen/Lato>`_
    web font for those without Optima available).
 
-   **banner**. The banner image for this site's feed was created by
-   `Lukas Baumert <https://pixabay.com/en/users/designer-obst-5430486/>`_.
-
    **runequest and call of cthulhu**. Portions of this blog use trademarks
    and/or copyrights owned by Chaosium Inc/Moon Design Publications LLC, which
    are used under Chaosium Inc's Fan Material Policy. We are expressly
