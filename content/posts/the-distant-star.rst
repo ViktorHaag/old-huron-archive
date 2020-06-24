@@ -58,16 +58,16 @@ and the tonnage required, directly from Traveller Book 5 (High Guard) [HG2]_.
 
 **Armaments**. As flagships, Vargas SL judges that they must be capable of
 defending themselves. The Distant Star in particular is kitted with a single
-turret sandcaster, and a double-turret hosting beam lasers (juding that accuracy
+turret sandcaster, and a double-turret hosting beam lasers (judging that accuracy
 is more important to the ship's survival than impact).
 
-**Improved maneuverability**. Sacrificing space typically set aside for passengers
+**Improved manoeuvrability**. Sacrificing space typically set aside for passengers
 in the 600-ton liner design lets Vargas dedicate space to improved engine
 capacity. Still using the stock power plant and jump drives, this enhanced
 flagship design boosts the manoeuvre drive fitted to allow for speeds in-system
 of up to 3G without significant increase in fuel requirements.
 
-**Reassignment of accomodation space**. All the space normally set aside for
+**Reassignment of accommodation space**. All the space normally set aside for
 passenger capacity is not needed in this modified design; the reclaimed space is
 typically re-dedicated on these ships to 170 tons of cargo, additional ships
 vehicles (a launch, ATV, and speeder), and a suite of emergency low berths in
