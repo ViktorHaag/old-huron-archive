@@ -13,8 +13,8 @@ refactoring rather than a complete rebuild.
 """
 thumb = "https://inspirationfeeeed.files.wordpress.com/2014/11/scifi-luxury-liner.jpg"
 thumbattr = 'SciFi Luxury Liner, <a href="https://inspirationfeed.com/spaceship-designs/">InspirationFeed</a>'
-categories = []
-tags = []
+categories = ["traveller", "rpg"]
+tags = ["prep"]
 +++
 
 My current set of *Traveller* [CT]_ adventures provided a few needs that help
