@@ -67,7 +67,7 @@ description.
 **Type and Descriptor**. Every faction belongs to one of five types: Organization,
 Ideology, Corporation, Location, Polity. When writing down the type of a
 faction, you also use a *descriptor* that further characterizes it: for example,
-"Organization (Religious)" or "Corporation (Mining Conglomerate)".
+"Organization (Charitable)" or "Corporation (Mining Conglomerate)".
 
 **Ideas**. Factions are united by motivations, ideals, beliefs, or *ideas*
 commonly held by their membership. Some factions will only have one idea, some will
@@ -248,7 +248,7 @@ factions.
 
 .. [CT] :title:`Traveller (Classic)`, https://rpggeek.com/rpg/491/traveller-classic
 
-.. [MS] :title:`M-Space`, http://www.frostbytebooks.com/m-space
+.. [MS] :title:`M-Space`, https://rpggeek.com/rpgitem/210934/m-space
 
 .. |br| raw:: html
 
