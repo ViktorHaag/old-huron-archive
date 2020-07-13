@@ -13,8 +13,8 @@ sectionPagesMenu = "main"
     home = ["HTML", "RSS"]
     page = ["HTML"]
     section = ["HTML"]
-    taxonomyTerm = ["HTML"]
     taxonomy = ["HTML"]
+    term = ["HTML"]
 
 [params]
     badge_image = "https://www.gravatar.com/avatar/5afee2f4902e5bbf78c8dc03d1c96ee0"
