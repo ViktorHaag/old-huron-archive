@@ -107,13 +107,14 @@ Orbit Feature                          Satellites Feature UPP
 ===== ================================ ========== ===========
 0     Hounslow                         --         C51097A/9
 1     --
-2     Asteroid Belt                               x000335/8
+2     Asteroid Belt                               x000435/8
 3     --
 ===== ================================ ========== ===========
 
-The system's asteroid belt has a relatively high population (order thousands),
-consisting of mining installations directly controlled by their representative
-guild owners based on Hounslow.
+The system's asteroid belt has a relatively high population (order tens of
+thousands), consisting of mining installations directly controlled by a
+consortium of independent mining concerns federated under a single cooperative,
+and a few representative guild owners based on Hounslow.
 
 **Travel times**. Travel times within the Hounslow system are relatively short,
 thanks to the small star and close orbits of the system's features:
