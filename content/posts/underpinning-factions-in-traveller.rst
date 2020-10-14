@@ -35,8 +35,8 @@ In this post, I'll give a bit more detail on how I'm adapting factions for
    +------------------------------------------------------+
    | Scolari Sodality (Organization)                      |
    +======================================================+
-   | Franternal organization native to Housnlow with      |
-   | significant power and influene exists primarily to   |
+   | Fraternal organization native to Hounslow with       |
+   | significant power and influence exists primarily to  |
    | solidify the political influence for the wealthy and |
    | long-lived minor houses without sufficient resources |
    | to wield influence on their own. The Sodality        |
@@ -62,11 +62,11 @@ In this post, I'll give a bit more detail on how I'm adapting factions for
 
 Describing factions
 -------------------
-As in *M-Space* circles, factions get described with a light set of mecahnics.
+As in *M-Space* circles, factions get described with a light set of mechanics.
 Here's a bit more detail on what these mechanics mean, the range of values I'm
 using, and so on. Note what I'm going to write here amounts to detail about how
 I'm migrating those rules in *Traveller*, not re-writing them; for full use of
-these ideas, you probably want to get yourself a copy of the *M-Space* rulebook.
+these ideas, you probably want to get yourself a copy of the *M-Space* rule book.
 
 
 .. sidebar:: Influence
@@ -99,7 +99,7 @@ these ideas, you probably want to get yourself a copy of the *M-Space* rulebook.
 Organization, Ideology, Corporation, Location, Polity. When writing down the
 type of a faction, you also use a *descriptor* that further characterizes it,
 for example, "Corporation: Mining Conglomerate". The first four of these are in
-*M-Space*; I liked the idea that a "nation" could also be modeled using
+*M-Space*; I liked the idea that a "nation" could also be modelled using
 factions, and so I added a "Polity" type to the list. Otherwise, I'm treating
 types and descriptors exactly as outlined in *M-Space*.
 
@@ -142,7 +142,7 @@ types and descriptors exactly as outlined in *M-Space*.
 I'm not treating their provided list as exhaustive as I don't interpret their
 rules to suggest that its list should be. Accordingly, in my examples, I've
 added a few ideas that seem at the same general level of scope as the ones on
-their list, that more direclty tie to my background:
+their list, that more directly tie to my background:
 
 - *Innovation* -- A notion of progress, especially technical progress is
   important to the faction.
@@ -155,7 +155,7 @@ their list, that more direclty tie to my background:
 
 - *Resistance* -- The faction is in active opposition to some other faction.
 
-- *Pro-Commonwealth* -- The faciton is explicitly in favour of central
+- *Pro-Commonwealth* -- The faction is explicitly in favour of central
   Commonwealth authority.
 
 
@@ -194,7 +194,7 @@ familiar to the *Worlds* section of *Traveller* (the UWP population digit).
 
 
 **Attributes**. Every faction has a variable number of attributes that work
-roughly like *Traveller* skills; they describe how a faction impelements its
+roughly like *Traveller* skills; they describe how a faction implements its
 ideas and how it reaches its goals. As with *Traveller* skills, we use that same
 rough rating system. A rating of `0` indicates only a very basic level of
 capability (rather than no capability at all), with a swiftly widening scale of
@@ -234,7 +234,7 @@ circumstances; for example, you can add an attribute rating to the throw and use
 the result to help interpret the outcome of the test at hand.
 
 For the most part, the idea of factions here is  merely a way to formally
-describe a portion of the campaign setting, as one might do worlds, starships,
+describe a portion of the campaign setting, as one might do worlds, star ships,
 animals, patrons, and so on.
 
 
