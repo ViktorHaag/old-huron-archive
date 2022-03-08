@@ -29,3 +29,16 @@ sectionPagesMenu = "main"
             autoHeadingIDType = "blackfriday"
         [markup.goldmark.renderer]
             unsafe = true
+
+[security]
+    enableInlineShortcodes = false
+    [security.exec]
+       allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^rst2html.py$', '^postcss$']
+       osEnv = ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$']
+
+    [security.funcs]
+       getenv = ['^HUGO_']
+
+    [security.http]
+       methods = ['(?i)GET|POST']
+       urls = ['.*']
