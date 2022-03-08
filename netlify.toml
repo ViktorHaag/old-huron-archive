@@ -1,4 +1,4 @@
 [build]
     publish = "public/"
     command = "hugo"
-    environment = { HUGO_VERSION = "0.93.0", RUBY_VERSION = "2.7.2" }
+    environment = { HUGO_VERSION = "0.93.3", RUBY_VERSION = "2.7.2" }
