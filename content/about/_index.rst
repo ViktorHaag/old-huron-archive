@@ -14,6 +14,7 @@ Bio
     | **github**   `ViktorHaag <https://github.com/ViktorHaag>`__
     | **gitlab**   `ViktorHaag <https://gitlab.com/ViktorHaag>`__
     | **keybase**  `viktorhaag <https://keybase.io/viktorhaag>`__
+    | **mastodon** `@viktor_haag@dice.camp <https://dice.camp/@viktor_haag>`
     | **reddit**   `u/viktor_haag <https://www.reddit.com/user/viktor_haag>`__
     | **twitter**  `@viktor_haag <https://twitter.com/viktor_haag>`__
 
