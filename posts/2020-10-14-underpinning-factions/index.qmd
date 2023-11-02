@@ -1,0 +1,275 @@
+---
+title: "Underpinning Factions in Traveller"
+description: "Now that I’ve held up a thumb in the wind about how I might want
+to use _M-Space_ circles in my _Traveller_ games (with some concrete examples to
+support my current campaign), I’m going to follow up with some suggestions on
+what the descriptive mechanics for them mean in a _Traveller context_, and some
+initial rough working out of how to use them. This post is, accordingly, quite
+house-rulesy."
+date: 2020-10-14
+categories: [rpg, traveller, house rules]
+draft: false
+---
+
+[M-Space](https://rpggeek.com/rpgitem/210934/m-space) provides a formal way to
+describe "circles", or groups of people of various sizes and reaches, organized
+together for one reason or another, sharing common goals or beliefs (see MS
+p156). I decided to borrow this notion and its approach for my _Classic Traveller_
+adevntures for practical use. In my borrowing, I decided to call these things
+"factions" and in a previous post, I outlined how factions might be described
+along with some examples
+[for factions in the Hounslow system](../2020-07-03-traveller-factions/index.qmd).
+
+In this post, I'll give a bit more detail on how I'm adapting factions for
+_Traveller_.
+
+## Describing factions
+
+As in _M-Space_ circles, factions get described with a light set of mechanics.
+Here's a bit more detail on what these mechanics mean, the range of values I'm
+using, and so on. Note what I'm going to write here amounts to detail about how
+I'm migrating those rules in _Traveller_, not re-writing them; for full use of
+these ideas, you probably want to get yourself a copy of the _M-Space_ rule
+book.
+
+::: {.column-margin}
+**sample faction**. A faction writeup looks like this.
+
+```{=html}
+<table>
+  <thead style="border-top: 1px solid; border-bottom: 1px solid;">
+    <tr>
+      <th colspan="2"> Faction name </th>
+    </tr>
+  </thead>
+  <tbody style="border-top: 1px dotted; border-bottom: 1px dotted;">
+    <tr style="border-bottom: 0.5px dotted;">
+      <td colspan="2">
+        Descriptive paragraph for the faction; should include both simple
+        capsule summary of the faction's identity, as well as some identifying
+        traits by which one could recognize membership.
+      </td>
+    </tr>
+    <tr style="border-bottom: 0.5px dotted;">
+      <td>
+        <b>Ideas</b>
+      </td>
+      <td>
+        List of <i>Ideas</i> for faction
+      </td>
+    </tr>
+    <tr style="border-bottom: 0.5px dotted;">
+      <td> <b>UFP</b> </td>
+      <td>
+        Characteristics in hex form:<br>
+        - Influence<br>
+        - Size<br>
+        - Resources
+      </td>
+    </tr>
+    <tr style="border-bottom: 0.5px dotted;">
+      <td> <b>Attributes</b> </td>
+      <td>
+        List of <i>Attributes</i> for faction in skill form (Media-1, Political-3)
+      </td>
+    </tr>
+  </tbody>
+</table>
+```
+
+**Infulence**. Measures the impact a faction can have within the wider society.
+
+```{=html}
+<table>
+  <tr>
+    <th>0</th>
+    <td>No influence. Faction's ideas are unknown to most people in wider
+    society.</td>
+  </tr>
+  <tr>
+    <th>1-4</th>
+    <td>Very little influence. Concepts never reach the corridors of power.</td>
+  </tr>
+  <tr>
+    <th>5-9</th>
+    <td>Moderate influence. In favourable circumstances, faction's concepts can
+    shape policy in wider society.
+    </td>
+  </tr>
+  <tr>
+    <th>A-D</th>
+    <td>
+      Significant influence. Faction's concepts regularly shape policy and set the agenda in wider society.
+    </td>
+  </tr>
+  <tr>
+    <th>E-F</th>
+    <td>Major influence. Faction's aims and concepts capture the policy and agenda of wider society.
+    </td>
+  </tr>
+</table>
+
+```
+
+**Size**. Measures the number of individuals the faction comprises.
+
+```{=html}
+<table>
+  <tr>
+    <th>0</th>
+    <td>No members</td>
+  </tr>
+  <tr>
+    <th>1</th>
+    <td>Tens of members</td>
+  </tr>
+  <tr>
+    <th>2</th>
+    <td>Hundreds of members</td>
+  </tr>
+  <tr>
+    <th>3</th>
+    <td>Thousands of members</td>
+  </tr>
+  <tr>
+    <th>4</th>
+    <td>Tens of thousands</td>
+  </tr>
+  <tr>
+    <th>5</th>
+    <td>Hundreds of thousands</td>
+  </tr>
+  <tr>
+    <th>6</th>
+    <td>Miillions of members</td>
+  </tr>
+  <tr>
+    <th>7</th>
+    <td>Tens of millions</td>
+  </tr>
+  <tr>
+    <th>8</th>
+    <td>Hundreds of millions</td>
+  </tr>
+  <tr>
+    <th>9</th>
+    <td>Billions of members</td>
+  </tr>
+  <tr>
+    <th>A</th>
+    <td>Tens of billions</td>
+  </tr>
+</table>
+
+```
+
+**Resources**. Measures the wealth and prooperty a faction can bring to bear.
+
+```{=html}
+<table>
+  <tr>
+    <th>0</th>
+    <td>Destitute.</td>
+  </tr>
+  <tr>
+    <th>1-4</th>
+    <td>Poor</td>
+  </tr>
+  <tr>
+    <th>5-9</th>
+    <td>Average</td>
+  </tr>
+  <tr>
+    <th>A-D</th>
+    <td>Affluent</td>
+  </tr>
+  <tr>
+    <th>E-F</th>
+    <td>Wealthy</td>
+  </tr>
+</table>
+
+```
+
+:::
+
+
+
+**Type and Descriptor**. Every faction belongs to one of five types:
+Organization, Ideology, Corporation, Location, Polity. When writing down the
+type of a faction, you also use a descriptor that further characterizes it, for
+example, "Corporation: Mining Conglomerate". The first four of these are in
+__M-Space_; I liked the idea that a "nation" could also be modelled using factions,
+and so I added a "Polity" type to the list. Otherwise, I'm treating types and
+descriptors exactly as outlined in _M-Space_.
+
+**Ideas**. I'm using the "ideas" as outlined in _M-Space_ (see p156-7,166). I'm
+not treating their provided list as exhaustive as I don't interpret their rules
+to suggest that its list should be. Accordingly, in my examples, I've added a
+few ideas that seem at the same general level of scope as the ones on their
+list, that more directly tie to my background:
+
+- Innovation -- A notion of progress, especially technical progress is important
+  to the faction.
+
+- Anti-Colonialist -- The faction is explicitly not in favour of central
+  Commonwealth authority and pits itself in opposition to same.
+
+- Research -- Gaining more knowledge, especially through science, is a goal in
+  itself for the faction.
+
+- Resistance -- The faction is in active opposition to some other faction.
+
+- Pro-Commonwealth -- The faction is explicitly in favour of central
+  Commonwealth authority.
+
+**Characteristics**. Every faction has three characteristics given numeric
+ratings just as with the properties of characters and worlds in _Traveller_:
+INFluence, SIZe, and RESources (collected together into a _Universal Faction
+Profile_ or UFP).
+
+The general meanings for these characteristics is the same as in _M-Space_;
+however, the value scales are adapted and specific to _Traveller_; two of the
+characteristics range across five groupings (INF and RES) as in _M-Space_,
+whereas SIZ is more granular and borrows directly from the population table
+familiar to the Worlds section of _Traveller_ (the UWP population digit).
+
+**Attributes**. Every faction has a variable number of attributes that work
+roughly like _Traveller_ skills; they describe how a faction implements its
+ideas and how it reaches its goals. As with _Traveller_ skills, we use that same
+rough rating system. A rating of 0 indicates only a very basic level of
+capability (rather than no capability at all), with a swiftly widening scale of
+capability as attribute levels increase.
+
+I'm using the list of likely attributes from _M-Space_ (on pages 160-1) as the
+basic list, but as with Ideas, I view the list as somewhat open-ended and so
+specific factions may have attributes not found on the M-Space list (for
+example, the Research attribute).
+
+**Rank**. Every faction, as with _Traveller_ careers, comes with a concept of
+rank, with values ranging from 0 to 6 (where the rank and file members of a
+faction all have a rank of 0 and those with some higher prestigious rank ranging
+from 1 up to 6). It's up to the referee to determine when, and how, a character
+might raise in rank within a faction; as a matter of guidance, it's quite rare
+for anyone with only a casual relationship with a faction to have a rank above
+0.
+
+**More**. _M-Space_ also includes a number of other factors that can describe
+factions: _benefits_ that a faction can offer its members; _trait_ keywords that are
+neither precisely ideas nor attributes but similar in spirit; and a host of
+narrative _details_ that comprise historical information about the faction,
+policies and requirements to join and leave, and so forth; _structure_ to
+generally describe how the faction organizes itself.
+
+## Using factions
+
+The use of factions in play is quite straight-forward and can follow the
+suggestions found in _M-Space_ adapted in a _Traveller_ spirit. This basically
+means if you need to make tests with respect to factions, use a standard dice
+throw (roll 2D6) and use attribute ratings in a fashion that seems appropriate
+to the circumstances; for example, you can add an attribute rating to the throw
+and use the result to help interpret the outcome of the test at hand.
+
+For the most part, the idea of factions here is merely a way to formally
+describe a portion of the campaign setting, as one might do worlds, star ships,
+animals, patrons, and so on.

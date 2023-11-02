@@ -1,0 +1,324 @@
+---
+title: "Building event tables"
+description: "Eventually, one key to old-style sandbox play in any game genre is
+letting your dice choice drive the game and that means *event tables*. Later
+versions of the original Traveller game actually give more useful support for
+the referee in this regard than the original three books; I am going to borrow
+some of these techniques from the later editions and add them to the toolkit for
+my game."
+date: 2018-12-31
+categories: [rpg, traveller, prep]
+draft: false
+---
+
+The *Starter* and *Book* editions of the original *Traveller* introduce tables
+for random generation of patrons and rumours that the referee can use as
+templates, in addition to the random animal encounter table that one can also
+find in the original little black books. While this is useful in and of itself,
+it's even more useful because of the new table design introduced, leading to two
+kinds of table templates which I'll investigate a bit here.
+
+It's obvious that the *Traveller* rules explicitly intend you as the referee to
+use these different event table types as *tools* or templates to fiddle with,
+building specific instances of them for use in your own set of adventures. As my
+adventures expand and my players continue to investigate the setting, these
+tables (animal encounters, patron encounters, random encounters, rumours) are
+going to form the backbone for each setting and situation the players find
+themselves in. The tables will exist both "in space" (that is, the sub-settings
+and terrain types for each world can have appropriate tables), but also "in
+time" (that is, as adventures and campaign time rolls forward, the *contents* of
+these tables can adjust over time to account for things discovered, already
+done, implications of choices, and so on).
+
+## 2D wide table type
+
+The *Typical Animal Encounter Table* (Book 3, p35) is a prototypicaly example of
+the 2D wide table; here's a slightly abbreviated excerpt of it. These kinds of
+tables typically have 12 rows, one for every result possible on a 2D throw. When
+these kinds of tables need to also account for DMs to the throw, the number of
+rows expands to account for all the possible throw results.
+
+```{=html}
+<table>
+<colgroup>
+<col width="4%" />
+<col width="31%" />
+<col width="10%" />
+<col width="7%" />
+<col width="10%" />
+<col width="37%" />
+</colgroup>
+  <thead>
+    <tr>
+      <th colspan="4">CLEAR Terrain</th>
+      <th colspan="2" align="right">Regina (A788899/A)</th>
+    </tr>
+    <tr>
+      <th>Die</th>
+      <th>Animal</th>
+      <th>Weight</th>
+      <th>Hits</th>
+      <th>Armour</th>
+      <th>Wounds & Weapons</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2</td>
+      <td>1 Hijacker</td>
+      <td>200 kg</td>
+      <td>18/11</td>
+      <td>jack</td>
+      <td>11 teeth A5 F7 S2</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>2 Hunters</td>
+      <td>12 kg</td>
+      <td>3/7</td>
+      <td>none</td>
+      <td>4 claws A5 F4 S1</td>
+    </tr>
+    <tr>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>1 Chaser</td>
+      <td>50 kg</td>
+      <td>11/9</td>
+      <td>none</td>
+      <td>6 claws+1 A0 F7 S2</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td colspan="5">
+        Event -- Howling carnivores. Out of sight, chasers (below) are heard
+        howling continuously, if the party spends the night nearby, they may
+        attack (throw 7+).
+      </td>
+    </tr>
+    <tr>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>1 Killer</td>
+      <td>200 kg</td>
+      <td>21/12</td>
+      <td>none</td>
+      <td>17 as pike A1 F9 S1</td>
+    </tr>
+  </tbody>
+</table>
+```
+
+These tables are ideal for accommodating detailed columnar information, along
+with the throw value, in a compact way.
+
+However, one side-effect of this table style is that it obscures the fact that
+the *chance of rolling each row varies*; this is especially the case if DMs get
+involved in the throw. Book 3 includes construction templates for both 2D
+(belled throw result chance) and 1D (linear throw result chance) versions of the
+animal encounter table to help you determine what spread of animal types you
+might want to use when building the table.
+
+## D66 narrow table type
+
+The *Starter* and *Book* editions' patron, random event, and rumour tables
+introduce the D66 "matrix" type table (a tweaked excerpt of the rumours matrix
+table from the rule-book you can see in the nearby sidebar). This kind of table
+helps spray a large number (up to 36) of results across a range of linear-chance
+throw results, and uses a letter-keying method in the table to let you more
+easily manage the occurrence chance for individual results. This table style
+also has the advantage that it's narrow, and thus ideal for presentation in a
+thin column or sidebar.
+
+Fake change.
+
+::: {.column-margin}
+
+``` {=html}
+<table>
+<caption>Rumours for ALTA STATION</caption>
+<thead valign="bottom" style="border-top: 1px solid; border-bottom: 1px solid;">
+<tr>
+<th>&nbsp;</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+</thead>
+<tbody style="border-top: 1px dotted; border-bottom: 1px dotted;">
+  <tr>
+    <th>1</th>
+    <td>A</td>
+    <td>B</td>
+    <td>C</td>
+    <td>D</td>
+    <td>E</td>
+    <td>F</td>
+  </tr>
+  <tr>
+    <th>2</th>
+    <td>G</td>
+    <td>U</td>
+    <td>U</td>
+    <td>W</td>
+    <td>W</td>
+    <td>H</td>
+  </tr>
+  <tr>
+    <th>3</th>
+    <td>I</td>
+    <td>U</td>
+    <td>Y</td>
+    <td>Y</td>
+    <td>W</td>
+    <td>J</td>
+  </tr>
+  <tr>
+    <th>4</th>
+    <td>K</td>
+    <td>X</td>
+    <td>Z</td>
+    <td>Z</td>
+    <td>V</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <th>5</th>
+    <td>M</td>
+    <td>X</td>
+    <td>X</td>
+    <td>V</td>
+    <td>V</td>
+    <td>N</td>
+  </tr>
+  <tr>
+    <th>6</th>
+    <td>O</td>
+    <td>P</td>
+    <td>Q</td>
+    <td>R</td>
+    <td>S</td>
+    <td>T</td>
+  </tr>
+  <tr align="center">
+    <th colspan="7" style="border-top: 1px dotted; border-bottom: 1px solid;">Specific rumours</th>
+  </tr>
+  <tr>
+    <th>A</th>
+    <td colspan="6">Background information</td>
+  </tr>
+  <tr>
+    <th>B</th>
+    <td colspan="6">Minor fact</td>
+  </tr>
+  <tr>
+    <th>C</th>
+    <td colspan="6">Major fact</td>
+  </tr>
+  <tr>
+    <th>D</th>
+    <td colspan="6">Partial (potentially misleading) fact</td>
+  </tr>
+  <tr>
+    <th>E</th>
+    <td colspan="6">Veiled Clue</td>
+  </tr>
+  <tr>
+    <th>F</th>
+    <td colspan="6">Information leading to trap</td>
+  </tr>
+  <tr>
+    <th>G</th>
+    <td colspan="6">Location data</td>
+  </tr>
+  <tr>
+    <th>...</th>
+    <td colspan="6">...</td>
+  </tr>
+  <tr>
+    <th>Q</th>
+    <td colspan="6">Background information</td>
+  </tr>
+  <tr>
+    <th>R</th>
+    <td colspan="6">Minor fact</td>
+  </tr>
+  <tr>
+    <th>S</th>
+    <td colspan="6">Veiled Clue</td>
+  </tr>
+  <tr>
+    <th>T</th>
+    <td colspan="6">Misleading Clue</td>
+  </tr>
+  <tr align="center">
+    <th colspan="7" style="border-top: 1px dotted; border-bottom: 1px solid;">General rumours</th>
+  </tr>
+  <tr>
+    <th>U</th>
+    <td colspan="6">Broad background info</td>
+  </tr>
+  <tr>
+    <th>V</th>
+    <td colspan="6">Misleading background info</td>
+  </tr>
+  <tr>
+    <th>W</th>
+    <td colspan="6">Reference to library data</td>
+  </tr>
+  <tr>
+    <th>X</th>
+    <td colspan="6">General location data</td>
+  </tr>
+  <tr>
+    <th>Y</th>
+    <td colspan="6">Specific background data</td>
+  </tr>
+  <tr>
+    <th>T</th>
+    <td colspan="6">Misleading background data</td>
+  </tr>
+  <tr>
+    <td colspan="7" style="border-top: 1px dotted; border-bottom: 1px solid;">
+      Consult this matrix weekly on a throw of 7+; also consult this matrix
+      if <i>Rumour</i> is a patron encounter result.
+    </td>
+  </tr>
+</tbody>
+</table>
+```
+:::
+
+To use this table, throw two dice of different colours; one coloured die gets
+used to choose the row and one to choose the column (a D66 throw can also
+generate a linear range of results from `11` through to `66` — this style of table
+just spreads that out into a matrix).
+
+Notice that you can fiddle with the chance of occurrences in two ways,
+demonstrated in the example *Rumours Matrix* shown in the rule-book:
+
+- Some entries in the matrix can occur more than once. In this case: all the
+  *Specific rumours* results use keys *A* through *T*, and occur only once in the
+  matrix; all the *General rumours* results use keys *X* through *Z*, and occur more
+  than once — *U* through *X* three times; *Y* and *Z*, twice.
+
+- This duplication can also carry through into the *list of specific rumours*:
+  in the rule-book's template, you can see that a "Minor fact" result occurs
+  twice, as does "Background information".

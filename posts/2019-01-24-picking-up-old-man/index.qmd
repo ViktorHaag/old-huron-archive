@@ -1,0 +1,67 @@
+---
+title: "Picking up the old man"
+description: "The group is contacted by a quiet, conservatively dressed young
+man who wants to secure, via middle passage, a return trip for one passenger
+(and two on the return) to a nearby frontier world. The man explains that his
+father is due to be released from a prison on the world and he feels an
+obligation to meet him and convey him back home."
+date: 2019-01-24
+categories: [rpg, traveller, patron]
+draft: false
+---
+
+``` {=html}
+<table>
+  <tr style="border-top: 1px dotted; border-bottom: 1px dotted" align="left">
+    <td><b>Courier, Avenger</b></td>
+    <td><b>Required Skills</b>: none</td>
+    <td><b>Required Equipment</b>: ship</td>
+  </tr>
+</table>
+```
+
+::: {.column-margin}
+[![Bristol Prison Release, _Streeton Lawyers_](bristol-prison-release-thumbnail.jpg)](http://www.streetoncriminallawyers.com.au/community-safety-introduced-paramount-sentencing-consideration/bristol-prison-release/)
+:::
+
+**Player information**. When the players are on a world that is reasonably well
+appointed for a starport, and has a reasonably sizable population (certainly
+both more advanced than the target world**, this patron approaches the players
+with a simple passenger contract. He'd like to pay for three middle-passages,
+one to use on the trip out to the target world, and two on the way back. If the
+players insist, he will be reluctant, but will agree to pay for four tickets:
+two on the way out, and two on the way back, even though one on the way out will
+not be used. The patron's plight is that he can't afford high passage, but wants
+a reasonable guarantee that he will have passage both ways.
+
+The patron is even willing to pay an additional fee equivalent to a single
+high-passage on top of the four middle-passages, but will be quite reluctant to
+do so; he has no more resources available than that, and will take his plight
+elsewhere if pressed further.
+
+**Referee information**. Pick, or roll, for what might be going on.
+
+*1-3*. All is as represented. No surprised occur. The patron's father was a
+somewhat notorious bunko artist, but now has an earnest intention to reform and
+is happy for the trip back home.
+
+*3-5*. The patron is as he represents himself, but unbeknownst to him he's being
+followed by criminal elements with a grudge against the father. When they find
+out patron's means of transport out, they will attempt to place a passenger of
+their own on the PC's ship, high or middle-passage as needed, whose job it is to
+track down the father and pick an opportune moment for assassination. This will
+most likely be done in the lowest law-level environment possible (likely
+off-world), and the assassin is entirely willing to throw away the return leg of
+the journey on the player's ship if needed to best escape consequences.
+
+If the assassin succeeds, the patron may want to appeal to the players to bring
+the assassin to justice.
+
+*6*. The patron himself is misrepresenting himself as the son of the
+to-be-released prisoner, and is in fact an assassin hired to kill him. He will
+attempt to negotiate for payment on as few tickets as reasonably possible (i.e.
+passage for himself out with firm promises of two passages back, which he most
+likely will not need).
+
+If the players have any reason to look into, or verify, the identity of the
+patron, they may discover the deception.

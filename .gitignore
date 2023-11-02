@@ -1,11 +1,2 @@
-public
-resources
-*.cache
-.coverage
-*.pyc
-*.pytest_cache
-.tox
-build
-dist
-*.egg-info*
-Pipfile.lock
+/.quarto/
+/_site/

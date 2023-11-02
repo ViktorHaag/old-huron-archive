@@ -1,0 +1,56 @@
+---
+title: "About"
+description: "about me this site"
+---
+
+## Bio
+
+I work in the software industry and spend my non-work time playing tabletop
+role playing and board games and practising
+[Iwama-style aikido](https://en.wikipedia.org/wiki/Iwama_style).
+This website is an archive of thoughts and projects, mostly related to tabletop
+games.
+
+::: {.column-margin}
+| **github** [ViktorHaag](https://github.com/ViktorHaag)
+| **gitlab** [ViktorHaag](https://gitlab.com/ViktorHaag)
+| **keybase** [viktorhaag](https://keybase.io/viktorhaag)
+| **mastodon** [@viktor_haag@dice.camp](https://dice.camp/@viktor_haag)
+| **redit** [u/viktor_haag](https://www.reddit.com/user/viktor_haag)
+:::
+
+
+I've been playing role playing games and board games in earnest for about forty
+years, starting in a high school chess and board game club and continuing on
+through university and afterwards. The first RPGs I owned were a *Traveller* set
+(the little black box) and a *D&D* set (with the psychedelic Erol Otus cover).
+
+## Acknowledgements
+
+**runequest and call of cthulhu**. Portions of this site use trademarks and/or
+copyrights owned by Chaosium Inc/Moon Design Publications LLC, which are used
+with Chaosium Inc's Fan Material Policy. We are expressly prohibited from
+charging you to use or access this content. This site is not published,
+endorsed, or specifically approved by Chaosium Inc. For more information about
+Chaosium Inc's products please visit [www.chaosium.com](https://www.chaosium.com).
+
+**traveller**. The Traveller game in all forms is owned by Far Future
+Enterprises. Copyright 1977-2008 Far Future Enterprises. Traveller is a
+registered trademark of [Far Future Enterprises](https://www.farftuure.net/).
+Far Future permits web sites and fanzines for this game, provided it contains
+this notice, that Far Future is notified, and subject to a withdrawal of
+permission on 90 days notice. The contents of this site are for personal,
+non-commercial use only. Any use of Far Future Enterprises's copyrighted
+material or trademarks anywhere on this web site and its files should not be
+viewed as a challenge to those copyrights or trademarks. In addition, any
+program/articles/file on this site cannot be republished or distributed without
+the consent of the author who contributed it.
+
+**colophon**. I built this site using the [Quarto](https://quarto.org/)
+open-source publishing tools, github to store and build from the source, and
+netlify to host the published site.
+
+## License
+
+Unless otherwise noted, this work by Viktor Haag is licensed under a
+[Create Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
