@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+      - "keybase.txt"
 
 website:
   title: "Old Huron Archive"
