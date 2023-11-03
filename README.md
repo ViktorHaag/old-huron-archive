@@ -4,12 +4,4 @@
 This repository contains the code for my website hosted at
 https://old-huron-archive.netlify.app/.
 
-
-I've modified his theme code for this site, but I started with Alexander
-Carlton's excellent [hugo-b-side](https://github.com/fisodd/hugo-b-side) theme
-for the [Hugo](https://gohugo.io/) site generator. The site, therefore,
-indirectly borrows from all his influences, as well.
-
-It leans most heavily on the [tufte-css](https://github.com/edwardtufte/tufte-css)
-project with [Optima](https://en.wikipedia.org/wiki/Optima) as the
-underlying typeface, instead of ETBembo.
+It uses the [Quarto publishing system](https://quarto.org).
