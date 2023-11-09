@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "about me this site"
+description: "about me and this site"
 ---
 
 ## Bio
