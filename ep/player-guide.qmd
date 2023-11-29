@@ -1,0 +1,184 @@
+---
+title: Player guide
+---
+
+This is the player handout information for the current game using the Eagle Pass
+world. The rules currently being used for the game is the
+_Errant RPG_.^[<https://www.killjester.com/errant>]
+
+> You have no home, job, friends, family, or prospects. What you do have are a
+> particular set of skills (the kind that make respectable folks avoid you), a
+> handful of coppers, and a suitably blithe disregard for your own life. Out
+> here, beyond civilization, lies danger: monsters and magic and ancient ruins
+> pregnant with treasure. Death is likely, but what do you have to live for
+> anyway? At least out here is the chance to be lucky, a chance to be rich and
+> renowned.
+
+This old-timey fantasy campaign focuses on dungeon delving in search of secrets,
+riches, and wondrous items of great power. The game world starts with only a
+sketched out background, to slowly get more detail as we play.
+
+## The rules
+
+Here’s the basic rules we’ll play by.
+
+**Errant RPG**. We’re going to use the Errant RPG rules (a no-art edition of the
+rules is freely available; the with-art version is inexpensive and the hardcopy
+is available in a handsome, nice-quality trade-paperback digest-sized book
+direct from the publisher). As we go we may compile a set of house rules, but to
+start with we’ll pretty much play rules-as-written.
+
+We’re going to follow the creation workflow in the book starting on page 54, but
+with some small amendments.
+
+*Note*. You will most definitely want a copy of the character sheet to fill out
+and note-paper (or computer) for note-taking. The book-keeping in the game is
+straightforward, but actively keeping track of your stuff is an important part
+of the game so we’ll try to stick to that.
+
+**Archetypes**. There are four archetypes available for play: the Violent
+(fighty types), the Deviant (sneaky types), the Occult (arcane types), the
+Zealot (religious types). I’d like to suggest that nobody pick an archetype that
+someone else is using (to start with). Occult and Zealot are magic-using
+archetypes and magic in Errant is much more free-form than in traditional D&D,
+so you will contribute to building the magic you can use (and/or the deity you
+worship).
+
+**Humans only, all ancestries available**. All PCs are human people; humans in
+the game are much more variable by physical characteristics than in our own
+reality (taller, shorter, bigger, smaller, skin and hair pigments, etc). Humans
+also have full access to all four “ancestries” – these are no longer species
+traits: you can choose whether your ancestry makes you Tough, Arcane, Cunning,
+or Adaptable.
+
+The answer to the question “who is human and who isn’t” in the world is this:
+any magic that humans cast that identifies “humans” or “people” (like a spell
+that “detects humans” or “charms a person”) only works on humans. If that magic
+affects you, then you are human.
+
+**Roll your attributes, then distribute them**. You still roll 4D4 for each
+attribute, but you can roll 4D4 four times and then assign the results to the
+attributes as you want.
+
+**Keepsake & Failed Profession**. You can choose to roll for these, pick an
+entry from the appropriate table that interests you, or make up one all on your
+own, as you wish.
+
+**Languages**. Nearly all people speak the Common tongue, so you do, too.
+Depending on your idea about your background, you might also speak another
+language (see below); only those with the fortune of some education are
+literate, but you can choose that based on your background.
+
+**Questions**? I’m happy to answer any questions you may have!
+
+## The world
+
+Your home base is the walled, mountain city of Eagle Pass. It is the
+eastern-most settlement in The Empire. Two hundred years ago, under the
+ministrations of the mad Padishah Emperor Darius the Just, the Empire was
+working to extend a strong position from Eagle Pass. Then Darius was … removed
+from power. In the resulting disarray, the Empire suddenly had to contend with
+solidifying its military positions on borders not in the east. Now, things east
+of Eagle Pass are a mostly lawless wilderness: an opportunity for adventure,
+fame, and glory. There still remain a few hardy villages and farms in the woods
+and hills near to Eagle Pass, homesteaded by generations of Imperial citizens,
+too stubborn to leave their patch. Their trade, and even trade from native
+barbarian tribes-folk, has kept the modest market in Eagle Pass a going concern.
+
+**Astrology**. The world is a ball floating in the celestial ether surrounded by
+other floating bodies of various sizes and powers and their movements relative
+to one another are quite predictable. There is one Sun. There is one Moon. There
+are two other nearby worlds that are visible to the naked eye on clear nights.
+There are an uncountable number of stars in the sky which must be other Suns
+that are far, far away.
+
+**Calendar and time**. The year has four seasons (Spring, Summer, Fall, Winter)
+and a special Sacred Time between Winter and Spring each year.
+
+Each season has three months. Each month has three weeks, of ten days. Each day
+has four watches (morning, day, evening, night). Each watch has three toki of 2
+hours.
+
+Years, months, and toki are all named after a cycle of animals (Rat, Ox, Tiger,
+Hare, Dragon, Serpent, Horse, Goat, Monkey, Rooster, Dog, Boar). Days and weeks
+are counted ordinally.
+
+Eras are a period of years that begin with the assumption of a new Emperor, who
+names the Era. Each era begins the cycle of years anew from Year of the Rat. The
+current emperor is Javad the Righteous, the current Era, Restful Winter.
+
+**Languages**. Language in the Empire is divided into four groupings. All
+citizens of the Empire speak Common: those with any kind of education speak it
+well; those without any kind of education learn enough to get by. Most people of
+menial birth will have a Local dialect as their mother-tongue, and it’s often
+fairly impenetrable to anyone else: expect everyone in a region to have some
+familiarity with Local (and the poorer their birth, the better they are with
+it). Most people of an elevated background will know Classical, the courtly
+language in the Empire.
+
+The writing system in the Empire comes in two forms: a phonetic syllabary that
+was designed for Common and works reasonably well for Classical as well. All
+things written for basically-educated persons use this script, and it can be
+thought of as “the Common script”. There is also an ideographic writing system
+that is language independent but is most naturally used with the Classical
+language – those who can read the Classical script could easily read it aloud in
+Common or Local, if they have good facility with those languages.
+
+**New Gods and Old Gods**. There are two kinds of Gods: those that are New, who
+are less powerful and more scrutable of motive; those that are Old, who are more
+powerful and much less understandable. New Gods come into being via the
+apotheosis of those with a connection to the divine realm (called “Ascending”).
+All people can ascend, and so can some other creatures (for example, Dragons).
+Zealots can perform miracles through a compact with a God, who can be New or
+Old.
+
+**Arcane magic**. The universe is stitched together with hidden, occult
+correspondences that are predictable and exploitable by those who understand the
+secret knowledge. This knowledge is elliptical and hard to consciously
+comprehend, and although some people can do this, they must use a grimoire, or
+special token, to act as a focus for this understanding sufficient to let them
+cast a spell (cause a surprising effect that draws upon the occult
+correspondences in the world): each spell requires its own little grimoire to
+act as a focus.
+
+
+## Where we start
+
+Play begins before the ruined curtain wall of the old Stonehell prison.
+
+**What is this place**? During the reign of Darius the Just, he established this
+most notorious of penal colonies on the very edge of his domain. Those sent to
+Stonehell would never emerge again: it was intentionally, and practically, a
+life sentence. The project was simple – inmates of the Prison worked to dig and
+build the depths of the prison itself; those who worked were fed; inmates that
+resisted this regime were not.
+
+When Darius fell, the guards and officials at Stonehell were quietly recalled
+and the prison itself left to its own devices. Since that time, it has served as
+a hideout for countless bands of bandits and brigands. It has served as a
+laboratory for wizards who needed solitude to conduct their bizarre experiments.
+Practitioners of grim religions have sought sanctuary within its halls to avoid
+the prying eyes of the forces of the light. Roving bands of beasts have found
+shelter within its chambers, their numbers swelling with the passage of time.
+
+The years have done little to quell the rumours about what has become of
+Stonehell. Tales of cannibal kingdoms inhabited by pale-skinned ghuls who’ve
+carved a fortune of jewels from the earth compete with yarns about obscene
+magical experiments stalking its trackless halls.
+
+Bands of fearless errants regularly attempt to plumb the depths of Stonehell.
+Those who return sometimes do so laden with riches; most do not return at all.
+
+**What’s nearby**? A few leagues away from your spot, you made camp in the
+forests on the slopes of these mountains. If you stay mostly to the old imperial
+road that lead up to the prison, you can get there in less than a watch; if you
+go through the forests, it will take longer (at least a full “travel turn”,
+assuming you don’t get lost).
+
+A full day’s travel away lies the village of Pine Top. There you can find access
+to replenishment and a surprisingly well-equipped inn.
+
+Three day’s travel away along the road (down into the valley around Pine Top and
+then back up into the mountains) is the walled-city of Eagle Pass that guards
+the mountain pass; on the other side of Eagle Pass, the road goes through the
+pass and down into the more civilised lands of the Empire itself.

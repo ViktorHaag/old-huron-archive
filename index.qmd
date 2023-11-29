@@ -1,7 +1,12 @@
 ---
 title: "Old Huron Redoubt Project"
 description: a sanctuary of game-playing
+toc: false
 ---
 
 This site collects togther stuff related (almost entirely) to games and the
 groups I host, or participate in, to play them.
+
+## active matters
+
+[**Eagle Pass**](ep/index.qmd). A sandbox realm for old-timey fantasy gaming.

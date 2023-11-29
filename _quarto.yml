@@ -6,15 +6,29 @@ project:
 website:
   title: "Old Huron Archive"
   site-url: https://old-huron-archive.netlify.app
+  image: img/ViktorHaag.png
+
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - posts.qmd
+    logo: img/ViktorHaag.png
     right:
+      - about.qmd
       - icon: rss
         href: posts.xml
+
+  sidebar:
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - text: "Home"
+        file: index.qmd
+      - text: "Blog"
+        file: posts.qmd
+      - section: Eagle Pass
+        contents:
+            - ep/index.qmd
+            - ep/player-guide.qmd
+
 
 format:
   html:
